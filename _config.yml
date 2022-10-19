@@ -1,0 +1,15 @@
+title: QuSZIT
+email: nemkin@cs.bme.hu
+description: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
+lang: hu-HU
+
+domain: szitquantum.nemkindev.com
+url: "https://szitquantum.nemkindev.com"
+
+github_username: nemkin
+
+# Build settings
+remote_theme: nemkin/just-the-docs
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
