@@ -3,8 +3,8 @@ email: nemkin@cs.bme.hu
 description: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
 lang: hu-HU
 
-domain: cs.nemk.in
-url: "https://cs.nemk.in/"
+domain: dev.nemk.in
+url: "https://dev.nemk.in/cs-bme-hu-quantum"
 
 github_username: nemkin
 
