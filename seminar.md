@@ -7,7 +7,7 @@ permalink: szeminarium
 
 # Kvantumalgoritmusok szeminárium
 
-2023. tavaszán Kvantumalgoritmusok címmel szemináriumot indítunk,
+2023\. tavaszán Kvantumalgoritmusok címmel szemináriumot indítunk,
 melyen a kvantuminformatika különböző területeivel kapcsolatos
 előadásokat hallgathattok a tématerület neves magyar kutatóitól.
 
@@ -23,7 +23,7 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 ## Jövőbeli előadások
 
-### 2023. április 21.
+### 2023\. április 21\.
 
 **Cím**: Kvantumos jelfeldolgozás és szingulárisérték transzformáció  
 **Előadó**: [Gilyén András](http://gilyen.hu/)
@@ -31,33 +31,33 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 **Absztrakt**: A múlt héten tárgyalt lineáris algebrai algoritmusos keretrendszer
 fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
 
-### 2023. április 28.
+### 2023\. április 28\.
 
 **Cím**: Kvantumkulcsszétosztás (?)
 
-### 2023. május 5.
+### 2023\. május 5\.
 
 BME-s munkanap átrendezés miatt elmarad!
 
-### 2023. május 12.
+### 2023\. május 12\.
 
 **Előadó**: Csatári Jakab (?)
 
-### 2023. május 19.
+### 2023\. május 19\.
 
 Nyitott időpont...
 
-### 2023. május 26.
+### 2023\. május 26\.
 
 Nyitott időpont...
 
-### 2023. június 2.
+### 2023\. június 2\.
 
 Nyitott időpont...
 
 ## Elhangzott előadások
 
-### 2023. április 14.
+### 2023\. április 14\.
 
 **Cím**: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció  
 **Előadó**: [Gilyén András](http://gilyen.hu/)
@@ -69,11 +69,11 @@ absztrakciója ami egyben közös általánosítása a Grover keresésnek, az am
 amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimulációnak
 és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak.
 
-### 2023. április 7.
+### 2023\. április 7\.
 
 Nagypéntek miatt elmarad!
 
-### 2023. március 31.
+### 2023\. március 31\.
 
 **Cím**: Mintavételezés kvantumos bolyongásokkal  
 **Előadó**: Pituk Sára
@@ -87,7 +87,7 @@ használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 
 **Kapcsolódó irodalom**: [Dante Bencivenga: Sampling Using Controlled Quantum Walks](https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content)
 
-### 2023. március 17.
+### 2023\. március 17\.
 
 **Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba
 **Előadó**: [Gilyén András](http://gilyen.hu/)
