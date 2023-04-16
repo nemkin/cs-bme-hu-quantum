@@ -89,5 +89,5 @@ használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 
 ### 2023\. március 17\.
 
-**Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba
+**Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
 **Előadó**: [Gilyén András](http://gilyen.hu/)
