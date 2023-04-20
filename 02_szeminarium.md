@@ -60,7 +60,7 @@ fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
   - Kommunikációs komplexitás összeomlása klasszikusan és kvantumosan
   - Lehetséges ellenérvek
 
-\*Ha marad még rá idő.
+\*Ha marad még rá idő.  
 \*\*Érdekes lenne beszélni róla, de még nekem is jobban utána kellene néznem. Esetleg említés szintjén beleférhet.
 
 ### 2023\. május 5\.
