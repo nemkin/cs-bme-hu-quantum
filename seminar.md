@@ -33,8 +33,8 @@ fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
 
 ### 2023\. április 28\.
 
-**Cím**: Összefonódás és ami mögötte van
-**Előadó**: [Galambos Máté](http://gilyen.hu/)
+**Cím**: Összefonódás és ami mögötte van  
+**Előadó**: Galambos Máté
 
 **Absztrakt**:
 - Bell-teszt
@@ -69,7 +69,13 @@ BME-s munkanap átrendezés miatt elmarad!
 
 ### 2023\. május 12\.
 
-**Előadó**: Csatári Jakab (?)
+**Cím**: Kvantumos bonyolultsági osztályok  
+**Előadó**: Csatári Jakab
+
+**Absztrakt**:
+Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy relációs bonyolultsági osztályokat hogyan érint kvantum vs klasszikus advice string.
+A cikk:  [A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer](https://arxiv.org/abs/2302.10332)
+És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.
 
 ### 2023\. május 19\.
 
