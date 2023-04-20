@@ -33,7 +33,35 @@ fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
 
 ### 2023\. április 28\.
 
-**Cím**: Kvantumkulcsszétosztás (?)
+**Cím**: Összefonódás és ami mögötte van
+**Előadó**: [Galambos Máté](http://gilyen.hu/)
+
+**Absztrakt**:
+- Bell-teszt
+  - CHSH egyenlőtlenség maximuma klasszikus esetben
+  - CHSH maximum kvantumos esetben, Tsirelson korlát
+  - Elméleti CHSH maximum, szuprakvantum fizika
+- Ekert protokoll
+  - E91 protokoll, mint a Bell teszt alkalmazása
+  - Kulcsszétosztás
+- Pauli teleportáció
+  - Pauli teleportáció posztszelekcióval
+  - Algoritmikus következmények, Pauli teleportáció, mint kezdetleges előszámítás
+- A teleportáció új fajtája, a kapu-alapú teleportáció
+  - A kapu-alapú teleportáció, mint kvantumos előszámítás
+  - Korlátok, fidelitás, aszimptotikus természet
+  - Instant kvantumszámítás
+- Kvantumkriptográfia a kulcsszétosztáson túl\*
+  - Helyhitelesítés (távoli kommunikációs partner helyének tesztelése)
+  - Teleportációs támadás a helyhitelesítés ellen
+- Szuprakvantum fizika és következményei\*\*
+  - Popescu-Rohrlich dobozok (PR box)
+  - Véletlen hozzáférésű kódolás (RAC box)
+  - Kommunikációs komplexitás összeomlása klasszikusan és kvantumosan
+  - Lehetséges ellenérvek
+
+\*Ha marad még rá idő.
+\*\*Érdekes lenne beszélni róla, de még nekem is jobban utána kellene néznem. Esetleg említés szintjén beleférhet.
 
 ### 2023\. május 5\.
 
