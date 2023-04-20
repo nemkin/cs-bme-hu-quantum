@@ -4,7 +4,8 @@ description: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszék
 lang: hu-HU
 
 domain: dev.nemk.in
-url: "https://dev.nemk.in/cs-bme-hu-quantum"
+url: "https://dev.nemk.in"
+baseurl: "/cs-bme-hu-quantum"
 
 github_username: nemkin
 
