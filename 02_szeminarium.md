@@ -40,7 +40,7 @@ fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
 **Cím**: Összefonódás és ami mögötte van  
 **Előadó**: Galambos Máté
 
-**Absztrakt**:
+**Absztrakt**: (Előzetes terv, még változhat!)
 - Bell-teszt
   - CHSH egyenlőtlenség maximuma klasszikus esetben
   - CHSH maximum kvantumos esetben, Tsirelson korlát
