@@ -16,7 +16,7 @@ előadásokat hallgathattok a tématerület neves magyar kutatóitól.
 - **Időpont**: péntekenként 10:15 - 12:00
 - **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
 
-Az aktuális alkalmakról a [levelezőlistánkon](~/kapcsolat#levelezőlista) értesülhettek.
+Az aktuális alkalmakról a [levelezőlistánkon](/kapcsolat#levelezőlista) értesülhettek.
 
 Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet
 feliratkozni, aki csak 1-2 előadásra tudna benézni.
