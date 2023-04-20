@@ -16,12 +16,14 @@ előadásokat hallgathattok a tématerület neves magyar kutatóitól.
 - **Időpont**: péntekenként 10:15 - 12:00
 - **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
 
-Az aktuális alkalmakról a [levelezőlistánkon](/kapcsolat#levelezőlista) értesülhettek.
+Az aktuális alkalmakról a [levelezőlistánkon](~/kapcsolat#levelezőlista) értesülhettek.
 
 Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet
 feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 ## Jövőbeli előadások
+
+-----
 
 ### 2023\. április 21\.
 
@@ -30,6 +32,8 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 **Absztrakt**: A múlt héten tárgyalt lineáris algebrai algoritmusos keretrendszer
 fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
+
+-----
 
 ### 2023\. április 28\.
 
@@ -63,9 +67,13 @@ fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
 \*Ha marad még rá idő.  
 \*\*Érdekes lenne beszélni róla, de még nekem is jobban utána kellene néznem. Esetleg említés szintjén beleférhet.
 
+-----
+
 ### 2023\. május 5\.
 
 BME-s munkanap átrendezés miatt elmarad!
+
+-----
 
 ### 2023\. május 12\.
 
@@ -77,19 +85,29 @@ Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy reláció
 A cikk:  [A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer](https://arxiv.org/abs/2302.10332)  
 És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.
 
+-----
+
 ### 2023\. május 19\.
 
 Nyitott időpont...
+
+-----
 
 ### 2023\. május 26\.
 
 Nyitott időpont...
 
+-----
+
 ### 2023\. június 2\.
 
 Nyitott időpont...
 
+-----
+
 ## Elhangzott előadások
+
+-----
 
 ### 2023\. április 14\.
 
@@ -103,9 +121,13 @@ absztrakciója ami egyben közös általánosítása a Grover keresésnek, az am
 amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimulációnak
 és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak.
 
+-----
+
 ### 2023\. április 7\.
 
 Nagypéntek miatt elmarad!
+
+-----
 
 ### 2023\. március 31\.
 
@@ -120,6 +142,8 @@ bolyongással kvadratikusan gyorsabban lehetséges a mintavételezés egy Markov
 használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 
 **Kapcsolódó irodalom**: [Dante Bencivenga: Sampling Using Controlled Quantum Walks](https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content)
+
+-----
 
 ### 2023\. március 17\.
 
