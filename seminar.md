@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kvantumalgoritmusok szeminárium
+title: Szeminárium
 nav_order: 2
 permalink: szeminarium
 ---
