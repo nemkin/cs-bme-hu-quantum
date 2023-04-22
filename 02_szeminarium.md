@@ -85,7 +85,7 @@ Nyitott időpont...
 
 ### 2023\. május 26\.
 
-**Cím**: Kvantumalgoritmusok az izogénia-alapú kriptográfiában
+**Cím**: Kvantumalgoritmusok az izogénia-alapú kriptográfiában  
 **Előadó**: Kutas Péter
 
 **Absztrakt**:
