@@ -25,16 +25,6 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 -----
 
-### 2023\. április 21\.
-
-**Cím**: Kvantumos jelfeldolgozás és szingulárisérték transzformáció  
-**Előadó**: [Gilyén András](http://gilyen.hu/)
-
-**Absztrakt**: A múlt héten tárgyalt lineáris algebrai algoritmusos keretrendszer
-fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
-
------
-
 ### 2023\. április 28\.
 
 **Cím**: Összefonódás és ami mögötte van  
@@ -106,6 +96,16 @@ Nyitott időpont...
 -----
 
 ## Elhangzott előadások
+
+-----
+
+### 2023\. április 21\.
+
+**Cím**: Kvantumos jelfeldolgozás és szingulárisérték transzformáció  
+**Előadó**: [Gilyén András](http://gilyen.hu/)
+
+**Absztrakt**: A múlt héten tárgyalt lineáris algebrai algoritmusos keretrendszer
+fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
 
 -----
 
