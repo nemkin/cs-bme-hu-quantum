@@ -79,7 +79,7 @@ A cikk:  A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - 
 
 ### 2023\. május 19\.
 
-Nyitott időpont...
+(Ha az előző hetek előadásai túl hosszúak lennének, akkor valamelyiket itt folytathatjuk.)
 
 -----
 
@@ -95,7 +95,7 @@ A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek o
 
 ### 2023\. június 2\.
 
-Nyitott időpont...
+(Ha az előző hetek előadásai túl hosszúak lennének, akkor valamelyiket itt folytathatjuk.)
 
 -----
 
