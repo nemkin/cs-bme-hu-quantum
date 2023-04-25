@@ -22,6 +22,12 @@ Az aktuális alkalmakról a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#l
 Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet
 feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
+## Kapcsolat
+
+- Friedl Katalin: [email](mailto:friedl@cs.bme.hu), [weboldal](http://cs.bme.hu/~friedl/)
+- Gilyén András: [email](mailto:gilyen.andras@renyi.hu), [weboldal](http://gilyen.hu/)
+- Nemkin Viktória: [email](mailto:nemkin@cs.bme.hu), [weboldal](http://cs.bme.hu/~nemkin/)
+
 ## Jövőbeli előadások
 
 -----
