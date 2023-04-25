@@ -74,6 +74,15 @@ BME-s munkanap átrendezés miatt elmarad!
 
 ### 2023\. május 12\.
 
+Nincs előadás, helyette meg lehet hallgatni a BME elméleti fizika tanszék
+[szemináriumát](https://dtp.physics.bme.hu/szeminarium), melyen ugyanebben
+az időpontban Gilyén András tart előadást kvantum-termodinamikai állapotok
+preparálásáról.
+
+-----
+
+### 2023\. május 19\.
+
 **Cím**: Kvantumos bonyolultsági osztályok  
 **Előadó**: Csatári Jakab
 
@@ -81,12 +90,6 @@ BME-s munkanap átrendezés miatt elmarad!
 Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy relációs bonyolultsági osztályokat hogyan érint kvantum vs klasszikus advice string.  
 A cikk:  A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer ([Link](https://arxiv.org/abs/2302.10332))  
 És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.
-
------
-
-### 2023\. május 19\.
-
-(Ha az előző hetek előadásai túl hosszúak lennének, akkor valamelyiket itt folytathatjuk.)
 
 -----
 
