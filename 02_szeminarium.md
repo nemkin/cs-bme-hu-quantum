@@ -24,9 +24,9 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 ## Kapcsolat
 
-- Friedl Katalin: [email](mailto:friedl@cs.bme.hu), [weboldal](http://cs.bme.hu/~friedl/)
-- Gilyén András: [email](mailto:gilyen.andras@renyi.hu), [weboldal](http://gilyen.hu/)
-- Nemkin Viktória: [email](mailto:nemkin@cs.bme.hu), [weboldal](http://cs.bme.hu/~nemkin/)
+- Friedl Katalin ([email](mailto:friedl@cs.bme.hu), [weboldal](http://cs.bme.hu/~friedl/))
+- Gilyén András ([email](mailto:gilyen.andras@renyi.hu), [weboldal](http://gilyen.hu/))
+- Nemkin Viktória ([email](mailto:nemkin@cs.bme.hu), [weboldal](http://cs.bme.hu/~nemkin/))
 
 ## Jövőbeli előadások
 
