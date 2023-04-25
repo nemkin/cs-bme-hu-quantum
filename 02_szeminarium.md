@@ -9,7 +9,8 @@ permalink: szeminarium
 
 2023\. tavaszán Kvantumalgoritmusok címmel szemináriumot indítunk,
 melyen a kvantuminformatika különböző területeivel kapcsolatos
-előadásokat hallgathattok a tématerület neves magyar kutatóitól.
+előadásokat hallgathattok meglévő eredményekről és folyamatban
+lévő kutatásokról.
 
 ## Koordináták
 
