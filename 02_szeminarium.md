@@ -157,7 +157,7 @@ bolyongással kvadratikusan gyorsabban lehetséges a mintavételezés egy Markov
 állapotai közül tetszőleges céleloszlás esetén, mint klasszikus véletlen bolyongást
 használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 
-**Kapcsolódó irodalom**: [Dante Bencivenga: Sampling Using Controlled Quantum Walks](https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content)
+**Kapcsolódó irodalom**: Dante Bencivenga: Sampling Using Controlled Quantum Walks ([Link](https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content))
 
 -----
 
