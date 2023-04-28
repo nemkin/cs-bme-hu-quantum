@@ -135,6 +135,7 @@ absztrakciója ami egyben közös általánosítása a Grover keresésnek, az am
 amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimulációnak
 és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak.
 
+**Diasor**: [Link](https://nextcloud.renyi.hu/index.php/s/yN8pM4j9QbzSKFZ)
 -----
 
 ### 2023\. április 7\.
@@ -163,3 +164,5 @@ használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 
 **Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
 **Előadó**: [Gilyén András](http://gilyen.hu/)
+
+**Diasor**: [Link](https://nextcloud.renyi.hu/index.php/s/EXJMHRMQDxzyfYm)
