@@ -136,6 +136,7 @@ amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimul�
 és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak.
 
 **Diasor**: [Link](https://nextcloud.renyi.hu/index.php/s/yN8pM4j9QbzSKFZ)
+
 -----
 
 ### 2023\. április 7\.
