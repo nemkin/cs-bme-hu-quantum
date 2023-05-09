@@ -36,7 +36,7 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyanebben az időpontban a BME TTK Elméleti Fizika Tanszéken lehet meghallgatni Gilyén András előadását (angol nyelven):
 
-**Cím**: Quantum Thermal State Preparation
+**Cím**: Quantum Thermal State Preparation  
 **Előadó**: Gilyén András
 
 **Koordináták**:
