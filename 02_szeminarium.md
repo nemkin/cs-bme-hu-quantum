@@ -32,12 +32,6 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 -----
 
-### 2023\. május 5\.
-
-BME-s munkanap átrendezés miatt elmarad!
-
------
-
 ### 2023\. május 12\.
 
 Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyanebben az időpontban a BME TTK Elméleti Fizika Tanszéken lehet meghallgatni Gilyén András előadását (angol nyelven):
@@ -88,6 +82,12 @@ A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek o
 -----
 
 ## Elhangzott előadások
+
+-----
+
+### 2023\. május 5\.
+
+BME-s munkanap átrendezés miatt elmarad!
 
 -----
 
