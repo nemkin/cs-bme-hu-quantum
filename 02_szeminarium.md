@@ -48,7 +48,7 @@ Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyane
 
 Joint work with Chi-Fang (Anthony) Chen, Michael J. Kastoryano, Fernando G.S.L. Brandão: https://arxiv.org/abs/2303.18224
 
-Szemináriumsorozat linkje: https://dtp.physics.bme.hu/szeminarium
+**Szemináriumsorozat linkje**: https://dtp.physics.bme.hu/szeminarium
 
 -----
 
