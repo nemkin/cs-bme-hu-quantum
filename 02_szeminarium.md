@@ -136,7 +136,7 @@ absztrakciója ami egyben közös általánosítása a Grover keresésnek, az am
 amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimulációnak
 és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak.
 
-**Diasor**: [Link](https://nextcloud.renyi.hu/index.php/s/yN8pM4j9QbzSKFZ)
+**Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_04_14_kvantumos_szingularisertek_transzformacio/andras_gilyen_-_quantum_singular_value_transformation.pdf)
 
 -----
 
@@ -161,4 +161,4 @@ használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 **Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
 **Előadó**: [Gilyén András](http://gilyen.hu/)
 
-**Diasor**: [Link](https://nextcloud.renyi.hu/index.php/s/EXJMHRMQDxzyfYm)
+**Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_03_17_bevezetes_a_szegedy_fele_kvantumbolyongasokba/andras_gilyen_-_quantum_walks.pdf)
