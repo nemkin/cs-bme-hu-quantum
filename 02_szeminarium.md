@@ -140,12 +140,6 @@ amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimul�
 
 -----
 
-### 2023\. április 7\.
-
-Nagypéntek miatt elmarad!
-
------
-
 ### 2023\. március 31\.
 
 **Cím**: Mintavételezés kvantumos bolyongásokkal  
