@@ -65,7 +65,7 @@ A cikk:  A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - 
 Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyanebben az időpontban a BME TTK Elméleti Fizika Tanszéken lehet meghallgatni Gilyén András előadását (angol nyelven):
 
 **Cím**: Quantum Thermal State Preparation  
-**Előadó**: Gilyén András
+**Előadó**: [Gilyén András](http://gilyen.hu/)
 
 **Koordináták**:
 
@@ -77,12 +77,6 @@ Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyane
 Joint work with Chi-Fang (Anthony) Chen, Michael J. Kastoryano, Fernando G.S.L. Brandão: [https://arxiv.org/abs/2303.18224](https://arxiv.org/abs/2303.18224)
 
 **Szemináriumsorozat linkje**: [https://dtp.physics.bme.hu/szeminarium](https://dtp.physics.bme.hu/szeminarium)
-
------
-
-### 2023\. május 5\.
-
-BME-s munkanap átrendezés miatt elmarad!
 
 -----
 
