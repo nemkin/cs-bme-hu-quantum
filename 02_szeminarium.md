@@ -12,6 +12,10 @@ melyen a kvantuminformatika különböző területeivel kapcsolatos
 előadásokat hallgathattok meglévő eredményekről és folyamatban
 lévő kutatásokról diákok és kutatók előadásában.
 
+## Aktuális - 2023\. május 29\.
+
+A félévnek vége, a szeminárium nyáron szünetel. Ősszel találkozunk!
+
 ## Koordináták
 
 - **Időpont**: péntekenként 10:15 - 12:00
@@ -28,7 +32,7 @@ feliratkozni, aki csak 1-2 előadásra tudna benézni.
 - Gilyén András ([email](mailto:gilyen.andras@renyi.hu), [weboldal](http://gilyen.hu/))
 - Nemkin Viktória ([email](mailto:nemkin@cs.bme.hu), [weboldal](http://cs.bme.hu/~nemkin/))
 
-## Jövőbeli előadások
+## Elhangzott előadások
 
 -----
 
@@ -42,16 +46,6 @@ A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek o
 
 -----
 
-### 2023\. június 2\.
-
-(Ha az előző hetek előadásai túl hosszúak lennének, akkor valamelyiket itt folytathatjuk.)
-
------
-
-## Elhangzott előadások
-
------
-
 ### 2023\. május 19\.
 
 **Cím**: Kvantumos bonyolultsági osztályok  
@@ -61,6 +55,8 @@ A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek o
 Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy relációs bonyolultsági osztályokat hogyan érint kvantum vs klasszikus advice string.  
 A cikk:  A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer ([Link](https://arxiv.org/abs/2302.10332))  
 És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.
+
+**Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_05_19_kvantumos_bonyolultsagi_osztalyok/jakab_csatari_-_kvantum_bonyolultsagelmeleti_szeparacio_relacios_osztalyokra.pdf)
 
 -----
 
