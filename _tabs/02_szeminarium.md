@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Szeminárium
-permalink: szeminarium
+permalink: szeminarium/
 icon: fas fa-info-circle
 order: 2
 ---

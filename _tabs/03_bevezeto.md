@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Bevezető
-permalink: bevezeto
+permalink: bevezeto/
 icon: fas fa-info-circle
 order: 3
 ---

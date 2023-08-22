@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Dolgozatok
-permalink: dolgozatok
+permalink: dolgozatok/
 icon: fas fa-info-circle
 order: 6
 ---

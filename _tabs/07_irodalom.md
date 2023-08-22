@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Irodalom
-permalink: irodalom
+permalink: irodalom/
 icon: fas fa-info-circle
 order: 7
 ---
