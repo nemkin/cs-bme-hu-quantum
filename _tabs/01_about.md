@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 title: Rólunk
+permalink: /
 icon: fas fa-info-circle
 order: 1
 ---
