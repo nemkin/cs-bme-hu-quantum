@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Kapcsolat
-nav_order: 8
 permalink: kapcsolat
+icon: fas fa-info-circle
+order: 11
 ---
 
 # Kapcsolat
@@ -17,7 +18,7 @@ az ott található linkre kell majd kattintani a véglegesítéshez.
 
 ## Személyesen
 
-### Dr. Friedl Katalin 
+### Dr. Friedl Katalin
 
 egyetemi docens  
 [IB137/a](http://www.szit.bme.hu/rolunk/kapcsolat.html)  

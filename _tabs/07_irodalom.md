@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Irodalom
-nav_order: 7
 permalink: irodalom
+icon: fas fa-info-circle
+order: 7
 ---
 
 # Irodalom

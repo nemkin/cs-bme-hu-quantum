@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Szeminárium
-nav_order: 2
 permalink: szeminarium
+icon: fas fa-info-circle
+order: 2
 ---
 
 # Kvantumalgoritmusok szeminárium
@@ -86,6 +87,7 @@ Joint work with Chi-Fang (Anthony) Chen, Michael J. Kastoryano, Fernando G.S.L. 
 **Előadó**: Galambos Máté
 
 **Absztrakt**: (Előzetes terv, még változhat!)
+
 - Bell-teszt
   - CHSH egyenlőtlenség maximuma klasszikus esetben
   - CHSH maximum kvantumos esetben, Tsirelson korlát

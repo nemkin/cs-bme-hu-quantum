@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Témakiírások
-nav_order: 4
 permalink: temak
+icon: fas fa-info-circle
+order: 4
 ---
 
 # Témakiírások

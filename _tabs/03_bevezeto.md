@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Bevezető
-nav_order: 3
 permalink: bevezeto
+icon: fas fa-info-circle
+order: 3
 ---
 
 # Bevezető anyagok

@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Publikációk
-nav_order: 5
 permalink: publikaciok
+icon: fas fa-info-circle
+order: 5
 ---
 
 # Publikációk

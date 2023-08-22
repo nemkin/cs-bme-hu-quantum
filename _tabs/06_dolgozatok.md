@@ -1,8 +1,9 @@
 ---
-layout: default
+# the default layout is 'page'
 title: Dolgozatok
-nav_order: 6
 permalink: dolgozatok
+icon: fas fa-info-circle
+order: 6
 ---
 
 # Dolgozatok
