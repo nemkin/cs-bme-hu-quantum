@@ -1,7 +1,7 @@
 title: QuSZIT
 tagline: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
 description: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
-avatar: /assets/img/hacker-kitten.png
+avatar: /assets/img/schrodingers-purple-small.png
 
 github:
   username: quszit
@@ -13,7 +13,7 @@ social:
     - https://cs.bme.hu/quantum
     - https://github.com/quszit
 
-lang: hu
+lang: hu-HU
 timezone: Europe/Budapest
 
 theme: jekyll-theme-chirpy
