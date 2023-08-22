@@ -1,7 +1,6 @@
 ---
 # the default layout is 'page'
 title: Publikációk
-permalink: publikaciok/
 icon: fas fa-info-circle
 order: 5
 ---

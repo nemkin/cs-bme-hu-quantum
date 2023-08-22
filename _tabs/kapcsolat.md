@@ -1,7 +1,6 @@
 ---
 # the default layout is 'page'
 title: Kapcsolat
-permalink: kapcsolat/
 icon: fas fa-info-circle
 order: 11
 ---

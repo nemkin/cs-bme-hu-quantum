@@ -1,7 +1,6 @@
 ---
 # the default layout is 'page'
 title: Témakiírások
-permalink: temakiirasok/
 icon: fas fa-info-circle
 order: 4
 ---
