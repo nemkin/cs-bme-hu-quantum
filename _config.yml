@@ -3,10 +3,6 @@ tagline: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
 description: Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
 avatar: /assets/img/schrodingers-purple-small.png
 
-domain: dev.nemk.in
-url: "https://dev.nemk.in"
-baseurl: "/cs-bme-hu-quantum"
-
 github:
   username: quszit
 
