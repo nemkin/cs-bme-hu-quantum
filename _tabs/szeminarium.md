@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Szeminárium
 permalink: szeminarium/
-icon: fas fa-info-circle
+icon: fa-solid fa-chalkboard-user
 order: 1
 ---
 

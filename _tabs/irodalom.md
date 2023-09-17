@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Irodalom
-icon: fas fa-info-circle
+icon: fa-solid fa-book
 order: 3
 ---
 

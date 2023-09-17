@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-solid fa-seedling
 title: Bevezető anyagok
 order: 2
 ---

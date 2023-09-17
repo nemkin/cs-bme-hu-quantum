@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Hallgatóknak
-icon: fas fa-info-circle
+icon: fa-solid fa-graduation-cap
 order: 4
 ---
 
