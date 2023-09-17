@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Dolgozatok
-icon: fa-regular fa-scroll
+icon: fa-solid fa-scroll
 order: 5
 ---
 

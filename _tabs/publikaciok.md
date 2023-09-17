@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Publikációk
-icon: fa-regular fa-newspaper
+icon: fa-solid fa-newspaper
 order: 6
 ---
 
