@@ -1,0 +1,27 @@
+---
+layout: post
+author: nemkin
+title: Szeminárium\: Kvantumos szingulárisérték-transzformáció
+date: 2023-04-11 00:03:00 +0100
+categories: [Szeminárium, 2023 tavasz]
+keywords: szeminárium, 2023 tavasz
+tags:
+ - szeminarium-2023-tavasz
+math: false
+---
+
+A következő kvantumalgoritmusok szeminárium témája:
+
+## Téma
+
+- **Cím**: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció
+- **Előadó**: Gilyén András
+
+## Koordináták
+
+- **Időpont**: 2023. április 14. péntek, 10:15 - 12:00
+- **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
+
+## Absztrakt
+
+A kvantumos algoritmusok lineáris algebrai megközelítése az elmúlt években elvezetett egy egységes algoritmikus keretrendszer kifejlesztéséhez. A kvantumos szingulárisérték-transzformáció a kvantumos algoritmusok egy olyan absztrakciója ami egyben közös általánosítása a Grover keresésnek, az amplitúdó amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimulációnak és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak.

@@ -1,0 +1,27 @@
+---
+layout: post
+author: nemkin
+title: Szeminárium\: Kvantumalgoritmusok az izogénia-alapú kriptográfiában
+date: 2023-05-23 13:23:00 +0100
+categories: [Szeminárium, 2023 tavasz]
+keywords: szeminárium, 2023 tavasz
+tags:
+ - szeminarium-2023-tavasz
+math: false
+---
+
+A következő kvantumalgoritmusok szeminárium témája:
+
+## Téma
+
+- **Cím**: Kvantumalgoritmusok az izogénia-alapú kriptográfiában
+- **Előadó**: Kutas Péter
+
+## Koordináták
+
+- **Időpont**: 2023. május 26. péntek, 10:15 - 12:00
+- **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
+
+## Absztrakt
+
+A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek olyan nehéz problémán alapulnak, amelyekre nem ismert hatékony kvantumalgoritmus. Ennek számos irányzata közül az egyik legújabb az izogénia-alapú kriptográfia, ahol a nehéz probléma két (szuperszinguláris) elliptikus görbe közötti izogénia keresése. Izogéniákkal valósíthatóak meg a kriptográfia csoporthatások is, amelyek a diszkrét logaritmus legközellebbi poszt-kvantum rokonai. Az előadásban különböző izogénia problémákra és kriptográfiai csoporthatások invertálására vonatkozó kvantumalgoritmusokat tekintjük át. Ezek tipikusan különböző rejtett eltolás és rejtett részcsoport problémák lesznek.

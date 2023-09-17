@@ -21,9 +21,9 @@ Az első alkalom témája:
 
 ## Téma
 
-**Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
-**Előadó**: [Gilyén András](http://gilyen.hu/)  
-**Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_03_17_bevezetes_a_szegedy_fele_kvantumbolyongasokba/andras_gilyen_-_quantum_walks.pdf)
+- **Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba
+- **Előadó**: [Gilyén András](http://gilyen.hu/)
+- **Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_03_17_bevezetes_a_szegedy_fele_kvantumbolyongasokba/andras_gilyen_-_quantum_walks.pdf)
 
 ## Koordináták
 
