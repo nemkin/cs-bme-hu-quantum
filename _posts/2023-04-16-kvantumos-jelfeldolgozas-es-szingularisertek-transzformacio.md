@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium\: Kvantumos jelfeldolgozás és szingulárisérték transzformáció
+title: 'Szeminárium: Kvantumos jelfeldolgozás és szingulárisérték transzformáció'
 date: 2023-04-16 21:57:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

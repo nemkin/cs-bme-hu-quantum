@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium\: Összefonódás és ami mögötte van
+title: 'Szeminárium: Összefonódás és ami mögötte van'
 date: 2023-04-24 22:08:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

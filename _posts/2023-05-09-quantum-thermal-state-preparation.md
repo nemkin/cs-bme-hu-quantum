@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: Külsős szeminárium\: Quantum Thermal State Preparation
+title: 'Külsős szeminárium: Quantum Thermal State Preparation'
 date: 2023-05-15 21:37:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

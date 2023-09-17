@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium\: Kvantumos bonyolultsági osztályok
+title: 'Szeminárium: Kvantumos bonyolultsági osztályok'
 date: 2023-05-15 21:37:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz
