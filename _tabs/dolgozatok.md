@@ -25,7 +25,7 @@ Nyelv: magyar
 
 ## Kvantumséták szimulációja klasszikus számítógépen
 
-Szerző: [Nemkin Viktória]({{ site.baseurl }}/kapcsolat#nemkin-viktoria)  
+Szerző: [Nemkin Viktória]({{ site.baseurl }}/kapcsolat#nemkin-viktória)  
 Konzulens: [Dr. Friedl Katalin]({{ site.baseurl }}/kapcsolat#dr-friedl-katalin)  
 Típus: TDK  
 Dátum: 2021. november 16.  
