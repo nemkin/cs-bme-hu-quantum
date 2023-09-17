@@ -1,0 +1,65 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Bejegyzés
+  category: Kategória
+  tag: Címke
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Kezdőlap
+  categories: Kategóriák
+  tags: Címkék
+  archives: Archívum
+  about: Rólam
+
+# the text displayed in the search bar & search results
+search:
+  hint: keresés
+  cancel: Mégse
+  no_results: Hoppá! A keresett szöveg nem található az oldalon.
+
+panel:
+  lastmod: Legutóbb frissítve
+  trending_tags: Népszerű címkék
+  toc: Tartalomjegyzék
+  links: Blog linkek
+
+meta: A weboldal a(z) :THEME segítségével :PLATFORM motorban készült.
+
+not_found:
+  statment: A keresett URL nem található.
+
+notification:
+  update_found: A tartalom új verziója elérhető!
+  update: Frissítés
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Szerző
+  posted: Létrehozva
+  updated: Frissítve
+  words: szó
+  pageview_measure: látogató
+  read_time:
+    unit: perc
+    prompt: elolvasni
+  relate_posts: További olvasnivaló
+  share: Megosztás
+  button:
+    next: Újabb
+    previous: Régebbi
+    copy_code:
+      succeed: Másolva!
+    share_link:
+      title: Link másolása
+      succeed: Link sikeresen másolva!
+
+# categories page
+categories:
+  category_measure: kategória
+  post_measure: bejegyzés
