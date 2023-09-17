@@ -1,9 +1,9 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium
-date: 2023-09-18 12:00:00 +0100
-summary: Kvantumbitek gazdag dinamikája
+title: 'Szeminárium: Kvantumbitek gazdag dinamikája'
+summary: '2023. szeptember 25., hétfő 12:15 - 14:00, BME I ép. IB134'
+date: 2023-09-18 01:31:00 +0100
 categories: [Szeminárium, 2023 ősz]
 keywords: szeminárium, 2023 ősz
 tags:

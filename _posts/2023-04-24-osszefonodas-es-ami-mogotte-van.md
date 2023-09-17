@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium
-summary: Összefonódás és ami mögötte van
+title: 'Szeminárium: Összefonódás és ami mögötte van'
+summary: '2023. április 28. péntek, 10:15 - 12:00, BME I ép. IB134'
 date: 2023-04-24 22:08:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

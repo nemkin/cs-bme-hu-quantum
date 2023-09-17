@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: Külsős szeminárium
-summary: Quantum Thermal State Preparation
+title: 'Külsős szeminárium: Quantum Thermal State Preparation'
+summary: '2023. május 12. péntek, 10:15 - 11:00 + kérdések, BME F III ép. mf 1.'
 date: 2023-05-09 16:25:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

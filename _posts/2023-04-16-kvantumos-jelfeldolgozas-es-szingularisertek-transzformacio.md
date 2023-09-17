@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium
-summary: Kvantumos jelfeldolgozás és szingulárisérték transzformáció
+title: 'Szeminárium: Kvantumos jelfeldolgozás és szingulárisérték transzformáció'
+summary: '2023. április 21. péntek, 10:15 - 12:00, BME I ép. IB134'
 date: 2023-04-16 21:57:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

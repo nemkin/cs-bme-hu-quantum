@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: Szeminárium
-summary: Mintavételezés kvantumos bolyongásokkal
+title: 'Szeminárium: Mintavételezés kvantumos bolyongásokkal'
+summary: '2023. március 31. péntek, 10:15 - 12:00, BME I ép. IB134'
 date: 2023-03-28 12:17:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz
