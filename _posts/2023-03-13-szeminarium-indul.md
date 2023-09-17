@@ -13,7 +13,7 @@ math: false
 
 2023\. tavaszán **Kvantumalgoritmusok** címmel szemináriumot indítunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.
 
-Az aktuális alkalmakról a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek.
+Az aktuális alkalmakról a [weboldalunkon]({{ site.baseurl }}) és a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek.
 
 Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
@@ -22,7 +22,7 @@ Az első alkalom témája:
 ## Téma
 
 **Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
-**Előadó**: [Gilyén András](http://gilyen.hu/)
+**Előadó**: [Gilyén András](http://gilyen.hu/)  
 **Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_03_17_bevezetes_a_szegedy_fele_kvantumbolyongasokba/andras_gilyen_-_quantum_walks.pdf)
 
 ## Koordináták
