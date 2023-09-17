@@ -6,31 +6,6 @@ icon: fa-solid fa-chalkboard-user
 order: 1
 ---
 
-2023\. tavaszán Kvantumalgoritmusok címmel szemináriumot indítottunk,
-melyen a kvantuminformatika különböző területeivel kapcsolatos
-előadásokat hallgathattok meglévő eredményekről és folyamatban
-lévő kutatásokról diákok és kutatók előadásában.
-
-## Aktuális - 2023\. május 29\.
-
-A félévnek vége, a szeminárium nyáron szünetel. Ősszel találkozunk!
-
-## Koordináták
-
-- **Időpont**: péntekenként 10:15 - 12:00
-- **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
-
-Az aktuális alkalmakról a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek.
-
-Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet
-feliratkozni, aki csak 1-2 előadásra tudna benézni.
-
-## Kapcsolat
-
-- Friedl Katalin ([email](mailto:friedl@cs.bme.hu), [weboldal](http://cs.bme.hu/~friedl/))
-- Gilyén András ([email](mailto:gilyen.andras@renyi.hu), [weboldal](http://gilyen.hu/))
-- Nemkin Viktória ([email](mailto:nemkin@cs.bme.hu), [weboldal](http://cs.bme.hu/~nemkin/))
-
 ## Elhangzott előadások
 
 -----
@@ -156,9 +131,3 @@ használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás.
 
 -----
 
-### 2023\. március 17\.
-
-**Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
-**Előadó**: [Gilyén András](http://gilyen.hu/)
-
-**Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_03_17_bevezetes_a_szegedy_fele_kvantumbolyongasokba/andras_gilyen_-_quantum_walks.pdf)
