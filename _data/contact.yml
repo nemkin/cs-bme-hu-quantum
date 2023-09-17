@@ -5,8 +5,8 @@
   noblank: true # open link in current tab
 
 - type: rss
-  icon: "fa-solid fa-square-rss"
+  icon: "fa-solid fa-rss"
   noblank: true
 
 - type: github
-  icon: "fa-brands fa-square-github"
+  icon: "fa-brands fa-github"
