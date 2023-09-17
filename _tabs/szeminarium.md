@@ -8,31 +8,20 @@ order: 1
 
 ## Elhangzott előadások
 
------
+### 2023\. ősz
 
-### 2023\. május 26\.
+### 2023\. tavasz
 
-**Cím**: Kvantumalgoritmusok az izogénia-alapú kriptográfiában  
-**Előadó**: Kutas Péter
+- 2023-05-26: [Kvantumalgoritmusok az izogénia-alapú kriptográfiában]({{ site.baseurl }}/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban)
+- 2023-05-19: [Kvantumos bonyolultsági osztályok]({{ site.baseurl }}/posts/2023-05-15-kvantumos-bonyolultsagi-osztalyok)
+- 2023-05-12: [Quantum Thermal State Preparation]({{ site.baseurl }}/posts/2023-05-09-quantum-thermal-state-preparation)
+- 2023-04-28: [Összefonódás és ami mögötte van]({{ site.baseurl }}/posts/2023-04-24-osszefonodas-es-ami-mogotte-van)
+- 2023-04-21: [Kvantumos jelfeldolgozás és szingulárisérték transzformáció]({{ site.baseurl }}/posts/2023-04-16-kvantumos-jelfeldolgozas-es-szingularisertek-transzformacio)
+- 2023-04-14: [A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció]({{ site.baseurl }}/posts/2023-04-11-kvantumos-szingularisertek-transzformacio)
+- 2023-03-31: [Mintavételezés kvantumos bolyongásokkal]({{ site.baseurl }}/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal)
+- 2023-03-17: [Bevezetés a Szegedy-féle kvantumbolyongásokba]({{ site.baseurl }}/posts/2023-03-13-bevezetes-a-szegedy-fele-kvantumbolyongasokba)
 
-**Absztrakt**:
-A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek olyan nehéz problémán alapulnak, amelyekre nem ismert hatékony kvantumalgoritmus. Ennek számos irányzata közül az egyik legújabb az izogénia-alapú kriptográfia, ahol a nehéz probléma két (szuperszinguláris) elliptikus görbe közötti izogénia keresése. Izogéniákkal valósíthatóak meg a kriptográfia csoporthatások is, amelyek a diszkrét logaritmus legközellebbi poszt-kvantum rokonai. Az előadásban különböző izogénia problémákra és kriptográfiai csoporthatások invertálására vonatkozó kvantumalgoritmusokat tekintjük át. Ezek tipikusan különböző rejtett eltolás és rejtett részcsoport problémák lesznek. 
 
------
-
-### 2023\. május 19\.
-
-**Cím**: Kvantumos bonyolultsági osztályok  
-**Előadó**: Csatári Jakab
-
-**Absztrakt**:
-Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy relációs bonyolultsági osztályokat hogyan érint kvantum vs klasszikus advice string.  
-A cikk:  A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer ([Link](https://arxiv.org/abs/2302.10332))  
-És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.
-
-**Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_05_19_kvantumos_bonyolultsagi_osztalyok/jakab_csatari_-_kvantum_bonyolultsagelmeleti_szeparacio_relacios_osztalyokra.pdf)
-
------
 
 ### 2023\. május 12\.
 

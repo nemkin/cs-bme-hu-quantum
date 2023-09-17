@@ -1,7 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Kvantumalgoritmusok az izogénia-alapú kriptográfiában'
+title: Szeminárium
+summary: Kvantumalgoritmusok az izogénia-alapú kriptográfiában
 date: 2023-05-23 13:23:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

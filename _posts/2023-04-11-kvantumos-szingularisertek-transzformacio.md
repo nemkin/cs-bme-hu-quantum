@@ -1,7 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Kvantumos szingulárisérték-transzformáció'
+title: Szeminárium
+summary: 'A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció'
 date: 2023-04-11 00:03:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

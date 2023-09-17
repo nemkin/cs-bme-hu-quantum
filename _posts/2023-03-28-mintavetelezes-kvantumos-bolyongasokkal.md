@@ -1,7 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Kvantumos szingulárisérték-transzformáció'
+title: Szeminárium
+summary: Mintavételezés kvantumos bolyongásokkal
 date: 2023-03-28 12:17:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz

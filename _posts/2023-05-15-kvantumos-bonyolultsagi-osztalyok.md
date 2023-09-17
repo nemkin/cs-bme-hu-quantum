@@ -1,7 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Kvantumos bonyolultsági osztályok'
+title: Szeminárium
+summary: Kvantumos bonyolultsági osztályok
 date: 2023-05-15 21:37:00 +0100
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz
@@ -16,6 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: Kvantumos bonyolultsági osztályok
 - **Előadó**: Csatári Jakab
+- **Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_05_19_kvantumos_bonyolultsagi_osztalyok/jakab_csatari_-_kvantum_bonyolultsagelmeleti_szeparacio_relacios_osztalyokra.pdf)
 
 ## Koordináták
 
@@ -25,5 +27,5 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Absztrakt
 
 Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy relációs bonyolultsági osztályokat hogyan érint kvantum vs klasszikus advice string.  
-A cikk:  A Qubit, a Coin, and an Advice String Walk Into a [Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer](https://arxiv.org/abs/2302.10332)  
+A cikk:  A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman, William Kretschmer ([Link](https://arxiv.org/abs/2302.10332))  
 És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.

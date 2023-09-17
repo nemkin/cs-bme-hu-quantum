@@ -1,9 +1,9 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium folytatódik'
-date: 2023-09-17 21:23:00 +0200
-summary: Az őszi félévben is folytatódik a Kvantumalgoritmusok szemináriumunk!
+title: Szeminárium
+date: 2023-09-18 12:00:00 +0100
+summary: Kvantumbitek gazdag dinamikája
 categories: [Szeminárium, 2023 ősz]
 keywords: szeminárium, 2023 ősz
 tags:
