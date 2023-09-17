@@ -7,7 +7,7 @@ order: 4
 
 Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján!
 
-![Desktop View]({{ site.baseurl }}/assets/img/schrodingers-purple.png){: width="270" .w-75 .normal}
+![Schrödinger macskája a dobozban.](/assets/img/schrodingers-purple.png){: width="270" .w-75 .normal}
 
 ## Hallgatóknak
 
