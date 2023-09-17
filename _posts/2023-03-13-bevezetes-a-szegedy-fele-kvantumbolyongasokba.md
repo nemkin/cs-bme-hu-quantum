@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
 math: false
+hidden: true
 ---
 
 2023\. tavaszán **Kvantumalgoritmusok** címmel szemináriumot indítunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.

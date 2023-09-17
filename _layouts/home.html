@@ -41,6 +41,7 @@ layout: default
 
 {% capture content %}
   {% for post in posts %}
+    {% if post.hidden != true %}
     <article class="card-wrapper">
       <a href="{{ post.url | relative_url }}" class="card post-preview flex-md-row-reverse">
         {% if post.image %}
@@ -97,6 +98,7 @@ layout: default
         <!-- .card-body -->
       </a>
     </article>
+    {% endif %}
   {% endfor %}
 {% endcapture %}
 

@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
 math: false
+hidden: true
 ---
 
 Ezen a héten pénteken BME-s munkanap átrendezés miatt a szeminárium elmarad.

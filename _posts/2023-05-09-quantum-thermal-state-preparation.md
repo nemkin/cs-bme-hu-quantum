@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
 math: false
+hidden: true
 ---
 
 Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyanebben az időpontban a BME TTK Elméleti Fizika Tanszéken lehet meghallgatni Gilyén András előadását (angol nyelven):

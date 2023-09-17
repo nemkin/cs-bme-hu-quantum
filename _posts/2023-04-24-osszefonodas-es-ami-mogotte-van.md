@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
 math: false
+hidden: true
 ---
 
 A következő kvantumalgoritmusok szeminárium témája:

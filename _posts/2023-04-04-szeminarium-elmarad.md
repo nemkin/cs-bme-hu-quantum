@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
 math: false
+hidden: true
 ---
 
 Ezen a héten a szeminárium a nagypéntek/tavaszi szünet miatt elmarad.

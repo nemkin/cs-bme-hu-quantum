@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
 math: false
+hidden: true
 ---
 
 A félévnek vége, a szeminárium nyáron szünetel. Ősszel találkozunk!
