@@ -13,5 +13,5 @@ order: 4
 
 > Szeretettel várunk minden BSc és MSc képzésben részt vevő hallgatót, akár a Műegyetemről,
 akár bármely más felsőoktatási intézményből kvantumalgoritmusokkal kapcsolatos szakdolgozat,
-diplomaterv vagy TDK dolgozat készítésére. Érdemes megnézni az aktuális [témakiírásainkat]({{ site.baseurl }}/temak).
+diplomaterv vagy TDK dolgozat készítésére. Érdemes megnézni az aktuális témakiírásainkat (TODO).
 {: .prompt-tip }
