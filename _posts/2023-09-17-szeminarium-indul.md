@@ -1,5 +1,6 @@
 ---
 layout: post
+author: nemkin
 title: Kvantumalgoritmusok szeminárium indulása
 date: 2023-09-17 12:00:00 +0200
 summary: Ebben a félévben is indul a Kvantumalgoritmusok szeminárium!
