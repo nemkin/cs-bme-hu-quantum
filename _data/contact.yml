@@ -1,12 +1,12 @@
 #  The contact options.
 
 - type: email
-  icon: "fas fa-envelope"
+  icon: "fa-solid fa-envelope"
   noblank: true # open link in current tab
 
 - type: rss
-  icon: "fas fa-rss"
+  icon: "fa-solid fa-square-rss"
   noblank: true
 
 - type: github
-  icon: "fab fa-github"
+  icon: "fa-brands fa-square-github"
