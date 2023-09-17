@@ -6,9 +6,11 @@ icon: fa-solid fa-chalkboard-user
 order: 1
 ---
 
-## Elhangzott előadások
+## Aktuális előadás
 
-### 2023\. ősz
+- 2023-09-25: [Kvantumbitek gazdag dinamikája]({{ site.baseurl }}/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja)
+
+## Elhangzott előadások
 
 ### 2023\. tavasz
 
