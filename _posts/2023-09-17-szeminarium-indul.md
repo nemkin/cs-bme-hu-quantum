@@ -21,8 +21,8 @@ Az első alkalom témája:
 
 ## Téma
 
-**Cím**: Kvantumbitek gazdag dinamikája  
-**Előadó**: [Kiss Tamás](http://bird.szfki.kfki.hu/~tkiss/index_hu.html)
+- **Cím**: Kvantumbitek gazdag dinamikája
+- **Előadó**: [Kiss Tamás](http://bird.szfki.kfki.hu/~tkiss/index_hu.html)
 
 ## Koordináták
 
