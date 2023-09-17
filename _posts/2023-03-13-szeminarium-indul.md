@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: Kvantumalgoritmusok szeminárium indul
+title: Szeminárium indul
 date: 2023-03-13 23:42:00 +0200
 summary: Kvantumalgoritmusok szeminárium indul a SZIT-en!
 categories: [szeminarium, 2023-tavasz]
@@ -11,7 +11,7 @@ tags:
 math: false
 ---
 
-2023\. tavaszán Kvantumalgoritmusok címmel szemináriumot indítunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.
+2023\. tavaszán **Kvantumalgoritmusok** címmel szemináriumot indítunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.
 
 Az aktuális alkalmakról a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek.
 
@@ -19,9 +19,10 @@ Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes
 
 Az első alkalom témája:
 
+## Téma
+
 **Cím**: Bevezetés a Szegedy-féle kvantumbolyongásokba  
 **Előadó**: [Gilyén András](http://gilyen.hu/)
-
 **Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_03_17_bevezetes_a_szegedy_fele_kvantumbolyongasokba/andras_gilyen_-_quantum_walks.pdf)
 
 ## Koordináták
