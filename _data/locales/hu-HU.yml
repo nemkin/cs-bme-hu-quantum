@@ -40,9 +40,9 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: Szerző
-  posted: Létrehozva
-  updated: Frissítve
+  written_by: 'Szerző:'
+  posted: 'Létrehozva:'
+  updated: 'Frissítve:'
   words: szó
   pageview_measure: látogató
   read_time:
