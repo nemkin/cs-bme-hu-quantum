@@ -25,8 +25,6 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 ## Absztrakt
 
-Absztrakt: (Előzetes terv, még változhat!)
-
 - Bell-teszt
   - CHSH egyenlőtlenség maximuma klasszikus esetben
   - CHSH maximum kvantumos esetben, Tsirelson korlát
@@ -36,21 +34,19 @@ Absztrakt: (Előzetes terv, még változhat!)
   - Kulcsszétosztás
 - Pauli teleportáció
   - Pauli teleportáció posztszelekcióval
-  - Algoritmikus következmények, Pauli teleportáció, mint kezdetleges
-előszámítás
+  - Algoritmikus következmények, Pauli teleportáció, mint kezdetleges előszámítás
 - A teleportáció új fajtája, a kapu-alapú teleportáció
   - A kapu-alapú teleportáció, mint kvantumos előszámítás
   - Korlátok, fidelitás, aszimptotikus természet
   - Instant kvantumszámítás
-- Kvantumkriptográfia a kulcsszétosztáson túl*
+- Kvantumkriptográfia a kulcsszétosztáson túl\*
   - Helyhitelesítés (távoli kommunikációs partner helyének tesztelése)
   - Teleportációs támadás a helyhitelesítés ellen
-- Szuprakvantum fizika és következményei**
+- Szuprakvantum fizika és következményei\*\*
   - Popescu-Rohrlich dobozok (PR box)
   - Véletlen hozzáférésű kódolás (RAC box)
   - Kommunikációs komplexitás összeomlása klasszikusan és kvantumosan
   - Lehetséges ellenérvek
 
-*Ha marad még rá idő.
-**Érdekes lenne beszélni róla, de még nekem is jobban utána kellene
-néznem. Esetleg említés szintjén beleférhet.
+\*Ha marad még rá idő.  
+\*\*Érdekes lenne beszélni róla, de még nekem is jobban utána kellene néznem. Esetleg említés szintjén beleférhet.

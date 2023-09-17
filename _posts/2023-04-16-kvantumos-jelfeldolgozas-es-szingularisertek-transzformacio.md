@@ -25,5 +25,4 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 ## Absztrakt
 
-A múlt héten tárgyalt lineáris algebrai algoritmusos
-keretrendszer fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
+A múlt héten tárgyalt lineáris algebrai algoritmusos keretrendszer fő állításainak egy egyszerű elemi bizonyítását fogom elmondani.
