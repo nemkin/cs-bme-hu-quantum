@@ -175,8 +175,6 @@ kbd {
 footer {
   font-size: 0.8rem;
   background-color: var(--main-bg);
-  height: $footer-height;
-  border-top: 1px solid var(--main-border-color);
 
   @extend %text-color;
 
