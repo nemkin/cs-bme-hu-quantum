@@ -59,6 +59,16 @@ post:
       title: Link másolása
       succeed: Link sikeresen másolva!
 
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%F"
+    dayjs: "YYYY-MM-DD"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
 # categories page
 categories:
   category_measure: kategória
