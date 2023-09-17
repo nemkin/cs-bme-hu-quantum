@@ -63,8 +63,7 @@ layout: default
 
           <div class="card-text content mt-0 mb-2">
             <p>
-              {% include no-linenos.html content=post.content %}
-              {{ content | markdownify | strip_html | truncate: 200 | escape }}
+              {{ post.summary }}
             </p>
           </div>
 
