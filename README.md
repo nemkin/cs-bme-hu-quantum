@@ -1,11 +1,11 @@
-# nemk.in
+# QuSZIT
 
-This is my personal blog. :)
+QuSZIT
 
 ## Build
 
 ### Locally
 
 ```bash
-bundle exec jekyll b --config=_config.yml,_config.dev.yml -d _site
+bundle exec jekyll b --config=_config.yml,_config.development.yml -d _site
 ```
