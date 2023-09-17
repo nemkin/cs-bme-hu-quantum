@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Irodalom
 icon: fas fa-info-circle
-order: 7
+order: 3
 ---
 
 ## Könyvek

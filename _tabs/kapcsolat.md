@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Kapcsolat
 icon: fas fa-info-circle
-order: 4
+order: 10
 ---
 
 ## Levelezőlista

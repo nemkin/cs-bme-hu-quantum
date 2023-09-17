@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Dolgozatok
 icon: fas fa-info-circle
-order: 6
+order: 5
 ---
 
 ## Módszerek közel optimális vágások keresésére

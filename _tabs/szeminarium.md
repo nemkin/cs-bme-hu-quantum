@@ -3,7 +3,7 @@
 title: Szeminárium
 permalink: szeminarium/
 icon: fas fa-info-circle
-order: 2
+order: 1
 ---
 
 2023\. tavaszán Kvantumalgoritmusok címmel szemináriumot indítottunk,

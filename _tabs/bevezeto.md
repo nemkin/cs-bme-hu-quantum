@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 title: Bevezető anyagok
-order: 3
+order: 2
 ---
 
 Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segítségével megismerheted a kvantuminformatika és a kvantumalgoritmusok alapjait.
