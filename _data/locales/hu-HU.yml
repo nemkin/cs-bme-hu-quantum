@@ -48,7 +48,7 @@ post:
   read_time:
     unit: perc
     prompt: elolvasni
-  relate_posts: További olvasnivaló
+  relate_posts: További cikkek
   share: Megosztás
   button:
     next: Újabb
