@@ -4,7 +4,7 @@ author: nemkin
 title: Szeminárium szünetel
 date: 2023-05-29 20:25:00 +0100
 summary: Nyári szünet
-categories: [szeminarium, 2023-tavasz]
+categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz

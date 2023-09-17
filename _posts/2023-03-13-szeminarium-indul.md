@@ -4,7 +4,7 @@ author: nemkin
 title: Szeminárium indul
 date: 2023-03-13 23:42:00 +0200
 summary: Kvantumalgoritmusok szeminárium indul a SZIT-en!
-categories: [szeminarium, 2023-tavasz]
+categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz
 tags:
  - szeminarium-2023-tavasz
