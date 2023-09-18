@@ -46,7 +46,7 @@ jobs:
 
       - name: Test site
         run: |
-          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" --disable-external --check-html --allow_hash_href
+          bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
 
       - name: Deploy to prod branch
         uses: peaceiris/actions-gh-pages@v3
