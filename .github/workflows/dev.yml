@@ -46,7 +46,7 @@ jobs:
           bundler-cache: true
 
       - name: Build site
-        run: bundle exec jekyll b --verbose --config=_config.yml,_config.development.yml -d "_site${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll b --verbose --config=_config.yml,_config.development.yml -d _site
         env:
           JEKYLL_ENV: "development"
 
@@ -54,10 +54,19 @@ jobs:
         run: |
           bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
 
+      - name: Deploy to dev branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: dev
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: "_site${{ steps.pages.outputs.base_path }}"
+          path: "_site"
 
   deploy:
     environment:
