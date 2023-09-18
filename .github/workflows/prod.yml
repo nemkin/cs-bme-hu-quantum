@@ -1,4 +1,4 @@
-name: "Build to Prod"
+name: "Prod"
 on:
   push:
     branches:
