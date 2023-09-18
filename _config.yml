@@ -1,11 +1,7 @@
 title: QuSZIT
-tagline: Kvantumalgoritmusok a SZIT-en.
-description: >-
-  Kvantuminformatikai kutatócsoport a BME VIK karának SZIT tanszékén.
+tagline: Kvantumalgoritmusok a BME VIK SZIT-en.
+description: Kvantumalgoritmusok a BME VIK SZIT-en.
 avatar: /assets/img/schrodingers-purple.png
-
-url: "https://quszit.github.io"
-baseurl: "/cs-bme-hu-quantum"
 
 github:
   username: quszit
@@ -14,6 +10,7 @@ social:
   name: QuSZIT
   email: friedl@cs.bme.hu
   links:
+    - https://cs.bme.hu/quantum
     - https://github.com/quszit
 
 lang: hu-HU

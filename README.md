@@ -7,5 +7,5 @@ QuSZIT
 ### Locally
 
 ```bash
-bundle exec jekyll b --config=_config.yml,_config.development.yml -d _site
+bundle exec jekyll b --config=_config.yml,_config.local.yml -d _site
 ```
