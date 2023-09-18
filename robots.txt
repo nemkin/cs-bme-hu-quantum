@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://cs.bme.hu/quantum/sitemap.xml
+Sitemap: https://quszit.github.io/cs-bme-hu-quantum/sitemap.xml
