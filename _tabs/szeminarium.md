@@ -6,6 +6,14 @@ icon: fa-solid fa-chalkboard-user
 order: 1
 ---
 
+
+2023\. tavaszán **Kvantumalgoritmusok** címmel szemináriumot indítottunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.
+
+Az aktuális alkalmakról a [weboldalunkon]({{ site.baseurl }}/szeminarium) és a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek. Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet feliratkozni, aki csak 1-2 előadásra tudna benézni.
+
+Vezetők: [Dr. Friedl Katalin](https://cs.bme.hu/~friedl), [Dr. Gilyén András](http://gilyen.hu)  
+Titkár: [Nemkin Viktória](https://cs.bme.hu/~nemkin)
+
 ## Aktuális előadás
 
 - 2023-09-25: [Kvantumbitek gazdag dinamikája]({{ site.baseurl }}/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja)
