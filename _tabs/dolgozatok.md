@@ -50,7 +50,7 @@ Konzulens: [Dr. Friedl Katalin]({{ site.baseurl }}/kapcsolat#dr-friedl-katalin)
 Típus: TDK  
 Dátum: 2018. november 14.  
 Nyelv: magyar  
-[Link](http://tdk.bme.hu/VIK/Szimu1/Gepi-tanulas-es-kvantuminformatika)
+[Link](https://tdk.bme.hu/VIK/Szimu1/Gepi-tanulas-es-kvantuminformatika)
 
 ## Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe
 
@@ -59,7 +59,7 @@ Konzulens: [Dr. Friedl Katalin]({{ site.baseurl }}/kapcsolat#dr-friedl-katalin)
 Típus: TDK  
 Dátum: 2017. november 16.  
 Nyelv: magyar  
-[Link](http://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave)
+[Link](https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave)
 
 ## Kvantumalgoritmusok véletlen bolyongással
 
@@ -77,4 +77,4 @@ Konzulens: [Dr. Friedl Katalin]({{ site.baseurl }}/kapcsolat#dr-friedl-katalin)
 Típus: TDK  
 Dátum: 2014. november 11.  
 Nyelv: magyar  
-[Link](http://tdk.bme.hu/VIK/Szimulacio/Kvantumaramkorszimulacios-rendszer)
+[Link](https://tdk.bme.hu/VIK/Szimulacio/Kvantumaramkorszimulacios-rendszer)

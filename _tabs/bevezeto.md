@@ -11,15 +11,15 @@ Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segíts�
 
 ### Kvantum-informatika és kommunikáció
   
-Előadók: [Dr. Imre Sándor](http://www.mcl.hu/~imre/), [Dr. Bacsárdi László](http://www.hit.bme.hu/~bacsardi/)  
+Előadók: [Dr. Imre Sándor](https://www.mcl.hu/~imre/), [Dr. Bacsárdi László](https://www.hit.bme.hu/~bacsardi/)  
 Nyelv: magyar  
 [Link](https://portal.vik.bme.hu/kepzes/targyak/VIHIMA14/)
 
 ### Quantum Computing
 
-Előadó: [Dr. Gilyén András](http://gilyen.hu/index.html)  
+Előadó: [Dr. Gilyén András](https://gilyen.hu/index.html)  
 Nyelv: angol  
-[Link](http://gilyen.hu/teaching/QC_2021.html)
+[Link](https://gilyen.hu/teaching/QC_2021.html)
 
 ### Mátrixanalízis és kvantum-információelmélet
 
