@@ -13,14 +13,8 @@
 
 
 
-
-
 <!-- `site.alt_lang` can specify a language different from the UI -->
-<html lang="hu-HU" 
-  
-    data-mode="light"
-  
->
+<html lang="hu-HU" data-mode="light">
   <!-- The Head -->
 
 <head>
@@ -54,7 +48,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Szeminárium: Mintavételezés kvantumos bolyongásokkal" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Viktória Nemkin","url":"https://cs.bme.hu/~nemkin"},"dateModified":"2023-09-18T02:58:42+02:00","datePublished":"2023-03-28T13:17:00+02:00","description":"A következő kvantumalgoritmusok szeminárium témája: Téma Cím: Mintavételezés kvantumos bolyongásokkal Előadó: Pituk Sára Koordináták Időpont: 2023. március 31. péntek, 10:15 - 12:00 Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül) Absztrakt A kvantumos bolyongások a klasszikus véletlen bolyongások kvantumos megfelelői. Többek között a mintavételezésben is használnak véletlen bolyongáson alapuló algoritmusokat. Az előadásban bemutatok egy eredményt, ami szerint kvantumos bolyongással kvadratikusan gyorsabban lehetséges a mintavételezés egy Markov-lánc állapotai közül tetszőleges céleloszlás esetén, mint klasszikus véletlen bolyongást használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás. Kapcsolódó irodalom: Dante Bencivenga: Sampling Using Controlled Quantum Walks (Link)","headline":"Szeminárium: Mintavételezés kvantumos bolyongásokkal","mainEntityOfPage":{"@type":"WebPage","@id":"https://quszit.github.io/cs-bme-hu-quantum/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal/"},"url":"https://quszit.github.io/cs-bme-hu-quantum/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Viktória Nemkin","url":"https://cs.bme.hu/~nemkin"},"dateModified":"2023-03-28T13:17:00+02:00","datePublished":"2023-03-28T13:17:00+02:00","description":"A következő kvantumalgoritmusok szeminárium témája: Téma Cím: Mintavételezés kvantumos bolyongásokkal Előadó: Pituk Sára Koordináták Időpont: 2023. március 31. péntek, 10:15 - 12:00 Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül) Absztrakt A kvantumos bolyongások a klasszikus véletlen bolyongások kvantumos megfelelői. Többek között a mintavételezésben is használnak véletlen bolyongáson alapuló algoritmusokat. Az előadásban bemutatok egy eredményt, ami szerint kvantumos bolyongással kvadratikusan gyorsabban lehetséges a mintavételezés egy Markov-lánc állapotai közül tetszőleges céleloszlás esetén, mint klasszikus véletlen bolyongást használva, feltéve, hogy a kezdeti eloszlás a stacionárius eloszlás. Kapcsolódó irodalom: Dante Bencivenga: Sampling Using Controlled Quantum Walks (Link)","headline":"Szeminárium: Mintavételezés kvantumos bolyongásokkal","mainEntityOfPage":{"@type":"WebPage","@id":"https://quszit.github.io/cs-bme-hu-quantum/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal/"},"url":"https://quszit.github.io/cs-bme-hu-quantum/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -103,7 +97,7 @@
   
 
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
 
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/all.min.css">
@@ -112,6 +106,10 @@
 
   
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.21.1/dist/tocbot.min.css">
+  
+
+  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css">
   
 
   
@@ -329,8 +327,9 @@
 </aside>
 <!-- #sidebar -->
 
+
     <div id="main-wrapper" class="d-flex justify-content-center">
-      <div class="container px-xxl-5">
+      <div class="container d-flex flex-column px-xxl-5">
         <!-- The Top Bar -->
 
 <header id="topbar-wrapper" aria-label="Top Bar">
@@ -393,18 +392,10 @@
 </header>
 
 
-        <div class="row">
-          <main
-            aria-label="Main Content"
-            class="col-12 col-lg-11 col-xl-9 px-md-4"
-          >
+        <div class="row flex-grow-1">
+          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
             
-
-<article class="px-1">
-  
-    
-  
-    <!-- Refactor the HTML structure -->
+              <!-- Refactor the HTML structure -->
 
 
 
@@ -426,7 +417,9 @@
 <!-- Change the icon of checkbox -->
 
 
-<!-- images -->
+
+<!-- Handle images -->
+
 
 
 
@@ -462,7 +455,6 @@
       
 
       
-
     
       
 
@@ -474,7 +466,6 @@
       
 
       
-
     
       
 
@@ -486,11 +477,9 @@
       
 
       
-
     
 
     
-
   
 
   
@@ -516,14 +505,15 @@
 
 
 
-<header>
-  <h1 data-toc-skip>Szeminárium: Mintavételezés kvantumos bolyongásokkal</h1>
+<article class="px-1">
+  <header>
+    <h1 data-toc-skip>Szeminárium: Mintavételezés kvantumos bolyongásokkal</h1>
 
-  <div class="post-meta text-muted pb-2">
-    <!-- published date -->
-    <span>
-      Létrehozva:
-      <!--
+    <div class="post-meta text-muted">
+      <!-- published date -->
+      <span>
+        Létrehozva:
+        <!--
   Date format snippet
   See: ${JS_ROOT}/utils/locale-dateime.js
 -->
@@ -542,55 +532,32 @@
   2023-03-28
 </time>
 
-    </span>
-
-    <!-- lastmod date -->
-    
-      <span>
-        Frissítve:
-        <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
-
-
-
-
-<time
-  
-  data-ts="1694998722"
-  data-df="YYYY-MM-DD"
-  
-    data-bs-toggle="tooltip" data-bs-placement="bottom"
-  
->
-  2023-09-18
-</time>
-
       </span>
-    
 
-    
+      <!-- lastmod date -->
+      
 
-    <div class="d-flex justify-content-between">
-      <!-- author(s) -->
-      <span>
-        
+      
 
-        Szerző:
-
-        <em>
+      <div class="d-flex justify-content-between">
+        <!-- author(s) -->
+        <span>
           
+
+          Szerző:
+
+          <em>
             
-              <a href="https://cs.bme.hu/~nemkin">Viktória Nemkin</a>
+              
+                <a href="https://cs.bme.hu/~nemkin">Viktória Nemkin</a>
+                
               
             
-          
-        </em>
-      </span>
+          </em>
+        </span>
 
-      <!-- read time -->
-      <!-- Calculate the post's reading time, and display the word count in tooltip -->
+        <!-- read time -->
+        <!-- Calculate the post's reading time, and display the word count in tooltip -->
 
 
 
@@ -614,14 +581,14 @@
 >
   <em>1 perc</em> elolvasni</span>
 
+      </div>
+      <!-- .d-flex -->
     </div>
-    <!-- .d-flex -->
-  </div>
-  <!-- .post-meta -->
-</header>
+    <!-- .post-meta -->
+  </header>
 
-<div class="content mt-2">
-  <p>A következő kvantumalgoritmusok szeminárium témája:</p>
+  <div class="content">
+    <p>A következő kvantumalgoritmusok szeminárium témája:</p>
 
 <h2 id="téma"><span class="me-2">Téma</span><a href="#téma" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
@@ -643,30 +610,30 @@
 
 <p><strong>Kapcsolódó irodalom</strong>: Dante Bencivenga: Sampling Using Controlled Quantum Walks (<a href="https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content">Link</a>)</p>
 
-</div>
+  </div>
 
-<div class="post-tail-wrapper text-muted pt-5">
-  <!-- categories -->
-  
-    <div class="post-meta">
-      <i class="far fa-folder-open fa-fw me-1"></i>
-      
-        <a href="/cs-bme-hu-quantum/categories/szemin%C3%A1rium/">Szeminárium</a>,
-        <a href="/cs-bme-hu-quantum/categories/2023-tavasz/">2023 tavasz</a>
-    </div>
-  
+  <div class="post-tail-wrapper text-muted pt-5">
+
+    <!-- categories -->
+    
+      <div class="post-meta">
+        <i class="far fa-folder-open fa-fw me-1"></i>
+        
+          <a href="/cs-bme-hu-quantum/categories/szemin%C3%A1rium/">Szeminárium</a>,
+          <a href="/cs-bme-hu-quantum/categories/2023-tavasz/">2023 tavasz</a>
+      </div>
+    
 
   <div class="post-tail-bottom d-flex justify-content-between align-items-center mt-2 pb-2">
+    <!-- tags -->
     <div class="post-tags">
       <i class="fa fa-tags fa-fw me-1"></i>
       
-        <a
-          href="/cs-bme-hu-quantum/tags/szeminarium-2023-tavasz/"
-          class="post-tag no-text-decoration"
-        >szeminarium-2023-tavasz</a>
+        <a href="/cs-bme-hu-quantum/tags/szeminarium-2023-tavasz/"
+          class="post-tag no-text-decoration" >szeminarium-2023-tavasz</a>
       
     </div>
-    <!-- Post sharing snippet -->
+      <!-- Post sharing snippet -->
 
 <div class="share-wrapper d-flex align-items-center">
   <span class="share-label text-muted me-1">Megosztás</span>
@@ -743,21 +710,18 @@
   </span>
 </div>
 
+    </div>
+    <!-- .post-tail-bottom -->
   </div>
-  <!-- .post-tail-bottom -->
-</div>
-<!-- div.post-tail-wrapper -->
-
-
-  
-
-  
+  <!-- div.post-tail-wrapper -->
 </article>
 
+
+            
           </main>
 
           <!-- panel -->
-          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 mb-5 text-muted">
             <div class="access">
               <!-- Get the last 5 posts from lastmod list. -->
 
@@ -773,49 +737,6 @@
 
 
 
-
-  <section id="access-lastmod">
-    <h2 class="panel-heading">Legutóbb frissítve</h2>
-    <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
-      
-        
-        
-        
-        <li class="text-truncate lh-lg">
-          <a href="/cs-bme-hu-quantum/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja/">Szeminárium: Kvantumbitek gazdag dinamikája</a>
-        </li>
-      
-        
-        
-        
-        <li class="text-truncate lh-lg">
-          <a href="/cs-bme-hu-quantum/posts/2023-03-13-bevezetes-a-szegedy-fele-kvantumbolyongasokba/">Szeminárium: Bevezetés a Szegedy-féle kvantumbolyongásokba</a>
-        </li>
-      
-        
-        
-        
-        <li class="text-truncate lh-lg">
-          <a href="/cs-bme-hu-quantum/posts/2023-04-05-szeminarium-elmarad/">Szeminárium: Elmarad</a>
-        </li>
-      
-        
-        
-        
-        <li class="text-truncate lh-lg">
-          <a href="/cs-bme-hu-quantum/posts/2023-04-11-kvantumos-szingularisertek-transzformacio/">Szeminárium: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció</a>
-        </li>
-      
-        
-        
-        
-        <li class="text-truncate lh-lg">
-          <a href="/cs-bme-hu-quantum/posts/2023-04-16-kvantumos-jelfeldolgozas-es-szingularisertek-transzformacio/">Szeminárium: Kvantumos jelfeldolgozás és szingulárisérték transzformáció</a>
-        </li>
-      
-    </ul>
-  </section>
-  <!-- #access-lastmod -->
 
 
               <!-- The trending tags list -->
@@ -881,7 +802,7 @@
 
 
 
-  <section id="toc-wrapper" class="ps-0 pe-4 mb-5">
+  <section id="toc-wrapper" class="ps-0 pe-4">
     <h2 class="panel-heading ps-3 pt-2 mb-2">Tartalomjegyzék</h2>
     <nav id="toc"></nav>
   </section>
@@ -896,20 +817,366 @@
           <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
             
               
-                
-                <!--  The comments switcher -->
+              <!-- Recommend the other 3 posts according to the tags and categories of the current post. -->
+
+<!-- The total size of related posts -->
 
 
+<!-- An random integer that bigger than 0 -->
+
+
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy} -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  <aside id="related-posts" aria-labelledby="related-label">
+    <h3 class="mb-4" id="related-label">További cikkek</h3>
+    <nav class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 mb-4">
+      
+        <article class="col">
+          <a href="/cs-bme-hu-quantum/posts/2023-04-05-szeminarium-elmarad/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+    class="small"
+  
+  data-ts="1680646200"
+  data-df="YYYY-MM-DD"
+  
+>
+  2023-04-05
+</time>
+
+              <h4 class="pt-0 my-2">Szeminárium: Elmarad</h4>
+              <div class="text-muted small">
+                <p>
+                  
+
+
+
+
+
+                  Ezen a héten a szeminárium a nagypéntek/tavaszi szünet miatt elmarad.
+
+                </p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+        <article class="col">
+          <a href="/cs-bme-hu-quantum/posts/2023-04-11-kvantumos-szingularisertek-transzformacio/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+    class="small"
+  
+  data-ts="1681167780"
+  data-df="YYYY-MM-DD"
+  
+>
+  2023-04-11
+</time>
+
+              <h4 class="pt-0 my-2">Szeminárium: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció</h4>
+              <div class="text-muted small">
+                <p>
+                  
+
+
+
+
+
+                  A következő kvantumalgoritmusok szeminárium témája:
+
+Téma
+
+
+  Cím: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció
+  Előadó: Gilyén András
+  Diasor: Link
+
+
+K...
+                </p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+        <article class="col">
+          <a href="/cs-bme-hu-quantum/posts/2023-04-16-kvantumos-jelfeldolgozas-es-szingularisertek-transzformacio/" class="post-preview card h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+    class="small"
+  
+  data-ts="1681678620"
+  data-df="YYYY-MM-DD"
+  
+>
+  2023-04-16
+</time>
+
+              <h4 class="pt-0 my-2">Szeminárium: Kvantumos jelfeldolgozás és szingulárisérték transzformáció</h4>
+              <div class="text-muted small">
+                <p>
+                  
+
+
+
+
+
+                  A következő kvantumalgoritmusok szeminárium témája:
+
+Téma
+
+
+  Cím: Kvantumos jelfeldolgozás és szingulárisérték transzformáció
+  Előadó: Gilyén András
+
+
+Koordináták
+
+
+  Időpont: 2023. április 21. p...
+                </p>
+              </div>
+            </div>
+          </a>
+        </article>
+      
+    </nav>
+  </aside>
+  <!-- #related-posts -->
+
+
+            
               
+              <!-- Navigation buttons at the bottom of the post. -->
+
+<nav class="post-navigation d-flex justify-content-between" aria-label="Post Navigation">
+  
+  
+
+  
+    <a
+      href="/cs-bme-hu-quantum/posts/2023-03-13-bevezetes-a-szegedy-fele-kvantumbolyongasokba/"
+      class="btn btn-outline-primary"
+      aria-label="Régebbi"
+    >
+      <p>Szeminárium: Bevezetés a Szegedy-féle kvantumbolyongásokba</p>
+    </a>
+  
+
+  
+    <a
+      href="/cs-bme-hu-quantum/posts/2023-04-05-szeminarium-elmarad/"
+      class="btn btn-outline-primary"
+      aria-label="Újabb"
+    >
+      <p>Szeminárium: Elmarad</p>
+    </a>
+  
+</nav>
+
+            
+              
+              <!--  The comments switcher -->
+
+
             
 
             <!-- The Footer -->
 
 <footer
   aria-label="Site Info"
-  class="text-muted mt-5 mb-4"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
 >
-
   <p>A weboldal <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a> segítségével <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a> motorban készült.
   </p>
 </footer>
@@ -1132,7 +1399,7 @@
 
 
 
-  <script src="https://cdn.jsdelivr.net/combine/npm/jquery@3.7.1/dist/jquery.min.js,npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js,npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/lazysizes@5.3.2/lazysizes.min.js,npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.9/dayjs.min.js,npm/dayjs@1.11.9/locale/hu.min.js,npm/dayjs@1.11.9/plugin/relativeTime.min.js,npm/dayjs@1.11.9/plugin/localizedFormat.min.js,npm/tocbot@4.21.1/dist/tocbot.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/combine/npm/jquery@3.7.1/dist/jquery.min.js,npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js,npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/magnific-popup@1.1.0/dist/jquery.magnific-popup.min.js,npm/clipboard@2.0.11/dist/clipboard.min.js,npm/dayjs@1.11.10/dayjs.min.js,npm/dayjs@1.11.10/locale/hu.min.js,npm/dayjs@1.11.10/plugin/relativeTime.min.js,npm/dayjs@1.11.10/plugin/localizedFormat.min.js,npm/tocbot@4.21.1/dist/tocbot.min.js"></script>
 
 
 
