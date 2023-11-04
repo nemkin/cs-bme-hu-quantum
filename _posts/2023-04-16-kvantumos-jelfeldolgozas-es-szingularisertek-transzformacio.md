@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Kvantumos jelfeldolgozás és szingulárisérték transzformáció
-- **Előadó**: Gilyén András
+- **Előadó**: [Gilyén András](https://gilyen.hu/)
 
 ## Koordináták
 
