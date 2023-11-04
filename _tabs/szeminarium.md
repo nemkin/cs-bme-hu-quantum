@@ -16,9 +16,13 @@ Titkár: [Nemkin Viktória](https://cs.bme.hu/~nemkin)
 
 ## Aktuális előadás
 
-- 2023-09-25: [Kvantumbitek gazdag dinamikája]({{ site.baseurl }}/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja)
+- 2023-11-06: [Iterative refinement for quantum tomography]({{ site.baseurl }}/posts/2023-11-04-iterative-refinement-for-quantum-tomography)
 
 ## Elhangzott előadások
+
+### 2023\. ősz
+
+- 2023-09-25: [Kvantumbitek gazdag dinamikája]({{ site.baseurl }}/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja)
 
 ### 2023\. tavasz
 
