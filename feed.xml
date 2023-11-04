@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2023-11-04T03:51:10+01:00</updated>
+  <updated>2023-11-04T03:59:46+01:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -17,6 +17,34 @@
   <icon>/cs-bme-hu-quantum/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-quantum/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/" rel="alternate" type="text/html" title="Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving" />
+    <published>2023-11-04T03:53:00+01:00</published>
+  
+    <updated>2023-11-04T03:53:00+01:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Szeminárium" />
+    
+    <category term="2023 ősz" />
+    
+  
+
+  
+    <summary>2023. november 6., hétfő 12:15 - 14:00, BME I ép. IB134</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -126,34 +154,6 @@
 
   
     <summary>2023. május 19. péntek, 10:15 - 12:00, BME I ép. IB134</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Külsős szeminárium: Quantum Thermal State Preparation</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-09-quantum-thermal-state-preparation/" rel="alternate" type="text/html" title="Külsős szeminárium: Quantum Thermal State Preparation" />
-    <published>2023-05-09T17:25:00+02:00</published>
-  
-    <updated>2023-05-09T17:25:00+02:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-09-quantum-thermal-state-preparation/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-09-quantum-thermal-state-preparation/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Szeminárium" />
-    
-    <category term="2023 tavasz" />
-    
-  
-
-  
-    <summary>2023. május 12. péntek, 10:15 - 11:00 + kérdések, BME F III ép. mf 1.</summary>
   
 
   </entry>
