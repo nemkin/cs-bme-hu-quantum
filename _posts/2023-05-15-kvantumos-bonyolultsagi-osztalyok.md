@@ -18,7 +18,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: Kvantumos bonyolultsági osztályok
 - **Előadó**: Csatári Jakab
-- **Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_05_19_kvantumos_bonyolultsagi_osztalyok/jakab_csatari_-_kvantum_bonyolultsagelmeleti_szeparacio_relacios_osztalyokra.pdf)
+- **Diasor**: [Link](https://quszit.github.io/szeminarium/2023_05_19_kvantumos_bonyolultsagi_osztalyok/jakab_csatari_-_kvantum_bonyolultsagelmeleti_szeparacio_relacios_osztalyokra.pdf)
 
 ## Koordináták
 

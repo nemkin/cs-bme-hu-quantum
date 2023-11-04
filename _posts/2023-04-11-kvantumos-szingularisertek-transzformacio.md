@@ -18,7 +18,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció
 - **Előadó**: Gilyén András
-- **Diasor**: [Link](https://github.com/quszit/szeminarium/raw/main/2023_04_14_kvantumos_szingularisertek_transzformacio/andras_gilyen_-_quantum_singular_value_transformation.pdf)
+- **Diasor**: [Link](https://quszit.github.io/szeminarium/2023_04_14_kvantumos_szingularisertek_transzformacio/andras_gilyen_-_quantum_singular_value_transformation.pdf)
 
 ## Koordináták
 
