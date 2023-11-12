@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Szeminárium: Elfs, trees and quantum walks",
+    "url": "/cs-bme-hu-quantum/posts/2023-11-12-elfs-trees-and-quantum-walks/",
+    "categories": "Szeminárium, 2023 ősz",
+    "tags": "szeminarium-2023-ősz",
+    "date": "2023-11-12 21:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Elfs, trees and quantum walks  Előadó: Pituk SáraKoordináták  Időpont: 2023. november 20., hétfő 12:30 - 14:00  Helyszín: IB134-es tere...",
+    "content": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Elfs, trees and quantum walks  Előadó: Pituk SáraKoordináták  Időpont: 2023. november 20., hétfő 12:30 - 14:00  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)AbsztraktAz előadásban Simon Apers és Stephen Piddock ‘‘Elfs, teres and quantum walks’’ című cikkéről lesz szó. Ennek a témája egy kvantumbolyongásos algoritmus, ami egy gráfon vett véletlen bolyongás érkezési eloszlása szerint vesz mintát a gráf megjelölt csúcsai közül. Az eredmény a bolyongások és elektromos hálózatok közötti kapcsolaton alapszik."
+  },
+  
+  {
     "title": "Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving",
     "url": "/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/",
     "categories": "Szeminárium, 2023 ősz",
