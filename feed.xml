@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2023-11-12T21:21:02+01:00</updated>
+  <updated>2023-11-14T18:32:05+01:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -17,6 +17,62 @@
   <icon>/cs-bme-hu-quantum/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-quantum/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Szeminárium: Majorana-szimulátor</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Majorana-szimulátor" />
+    <published>2023-11-14T18:00:00+01:00</published>
+  
+    <updated>2023-11-14T18:00:00+01:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Szeminárium" />
+    
+    <category term="2023 ősz" />
+    
+  
+
+  
+    <summary>2023. december 3., hétfő 12:30 - 14:00, BME I ép. IB134</summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Szeminárium: Clifford-szimulátor</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Clifford-szimulátor" />
+    <published>2023-11-14T18:00:00+01:00</published>
+  
+    <updated>2023-11-14T18:00:00+01:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Szeminárium" />
+    
+    <category term="2023 ősz" />
+    
+  
+
+  
+    <summary>2023. november 27., hétfő 12:30 - 14:00, BME I ép. IB134</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -98,62 +154,6 @@
 
   
     <summary>2023. szeptember 25., hétfő 12:15 - 14:00, BME I ép. IB134</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Szeminárium: Nyári szünet</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-29-szeminarium-szunet/" rel="alternate" type="text/html" title="Szeminárium: Nyári szünet" />
-    <published>2023-05-29T21:25:00+02:00</published>
-  
-    <updated>2023-05-29T21:25:00+02:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-29-szeminarium-szunet/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-29-szeminarium-szunet/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Szeminárium" />
-    
-    <category term="2023 tavasz" />
-    
-  
-
-  
-    <summary>Ősszel találkozunk!</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Szeminárium: Kvantumalgoritmusok az izogénia-alapú kriptográfiában</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/" rel="alternate" type="text/html" title="Szeminárium: Kvantumalgoritmusok az izogénia-alapú kriptográfiában" />
-    <published>2023-05-23T14:23:00+02:00</published>
-  
-    <updated>2023-05-23T14:23:00+02:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Szeminárium" />
-    
-    <category term="2023 tavasz" />
-    
-  
-
-  
-    <summary>2023. május 26. péntek, 10:15 - 12:00, BME I ép. IB134</summary>
   
 
   </entry>
