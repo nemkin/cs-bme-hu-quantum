@@ -16,7 +16,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Clifford-szimulátor
-- **Előadó**: Asbóth János
+- **Előadó**: [Asbóth János](https://dtp.physics.bme.hu/Asboth_Janos)
 
 ## Koordináták
 
