@@ -17,7 +17,7 @@ Ezen a héten pénteken a tanszéken nem tartunk szemináriumot, helyette ugyane
 ## Téma
 
 - **Cím**: Quantum Thermal State Preparation
-- **Előadó**: [Gilyén András](https://gilyen.hu/)
+- **Előadó**: [Gilyén András](http://gilyen.hu/)
 
 ## Koordináták
 

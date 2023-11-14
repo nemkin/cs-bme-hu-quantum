@@ -16,7 +16,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Iterative refinement for quantum tomography and quantum linear equation solving
-- **Előadó**: [Gilyén András](https://gilyen.hu/)
+- **Előadó**: [Gilyén András](http://gilyen.hu/)
 
 ## Koordináták
 

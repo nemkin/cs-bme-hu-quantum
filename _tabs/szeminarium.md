@@ -11,7 +11,7 @@ order: 1
 
 Az aktuális alkalmakról a [weboldalunkon]({{ site.baseurl }}/szeminarium) és a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek. Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
-Vezetők: [Dr. Friedl Katalin](https://cs.bme.hu/~friedl), [Dr. Gilyén András](https://gilyen.hu)  
+Vezetők: [Dr. Friedl Katalin](https://cs.bme.hu/~friedl), [Dr. Gilyén András](http://gilyen.hu)  
 Titkár: [Nemkin Viktória](https://cs.bme.hu/~nemkin)
 
 ## Aktuális előadás
