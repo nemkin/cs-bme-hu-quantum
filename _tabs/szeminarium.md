@@ -18,6 +18,11 @@ Titkár: [Nemkin Viktória](https://cs.bme.hu/~nemkin)
 
 - 2023-11-20: [Elfs, trees and quantum walks]({{ site.baseurl }}/posts/2023-11-12-elfs-trees-and-quantum-walks)
 
+## Jövőbeli előadások
+
+- 2023-11-27: [Clifford-szimulátor]({{ site.baseurl }}/posts/2023-11-14-clifford-szimulator)
+- 2023-12-04: [Majorana-szimulátor]({{ site.baseurl }}/posts/2023-11-14-majorana-szimulator)
+
 ## Elhangzott előadások
 
 ### 2023\. ősz
