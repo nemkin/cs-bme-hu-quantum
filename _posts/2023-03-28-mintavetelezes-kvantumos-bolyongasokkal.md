@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Mintavételezés kvantumos bolyongásokkal
-- **Előadó**: Pituk Sára
+- **Előadó**: [Pituk Sára](https://doktori.hu/index.php?menuid=192&lang=HU&sz_ID=44941)
 
 ## Koordináták
 

@@ -16,7 +16,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Elfs, trees and quantum walks
-- **Előadó**: Pituk Sára
+- **Előadó**: [Pituk Sára](https://doktori.hu/index.php?menuid=192&lang=HU&sz_ID=44941)
 
 ## Koordináták
 

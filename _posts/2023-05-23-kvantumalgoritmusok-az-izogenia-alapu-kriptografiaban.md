@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Kvantumalgoritmusok az izogénia-alapú kriptográfiában
-- **Előadó**: Kutas Péter
+- **Előadó**: [Kutas Péter](https://sites.google.com/view/peterkutas89/)
 
 ## Koordináták
 

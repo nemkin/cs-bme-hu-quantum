@@ -16,7 +16,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Majorana-szimulátor
-- **Előadó**: Márton Áron
+- **Előadó**: [Márton Áron](https://tdk.bme.hu/Browse/Users/Marton-Aron)
 
 ## Koordináták
 

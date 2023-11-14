@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Összefonódás és ami mögötte van
-- **Előadó**: Galambos Máté
+- **Előadó**: [Galambos Máté](https://competence.bme.hu/researchers/241-mate-galambos/)
 
 ## Koordináták
 
