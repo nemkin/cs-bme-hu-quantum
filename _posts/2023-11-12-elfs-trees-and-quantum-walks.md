@@ -9,6 +9,7 @@ keywords: szeminárium, 2023 ősz
 tags: 
  - szeminarium-2023-ősz
 math: false
+pin: true
 ---
 
 A következő kvantumalgoritmusok szeminárium témája:
