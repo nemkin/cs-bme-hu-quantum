@@ -29,6 +29,8 @@ const resource = [
   
     '/cs-bme-hu-quantum/archives/',
   
+    '/cs-bme-hu-quantum/levelezolista/',
+  
     '/cs-bme-hu-quantum/kapcsolat/',
   
 
