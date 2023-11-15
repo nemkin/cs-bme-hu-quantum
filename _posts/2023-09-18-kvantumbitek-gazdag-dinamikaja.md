@@ -13,7 +13,7 @@ math: false
 
 2023\. őszén folytatódik a **Kvantumalgoritmusok** szeminárium, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.
 
-Az aktuális alkalmakról a [weboldalunkon]({{ site.baseurl }}/szeminarium) és a [levelezőlistánkon]({{ site.baseurl }}/kapcsolat#levelezőlista) értesülhettek. Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet feliratkozni, aki csak 1-2 előadásra tudna benézni.
+Az aktuális alkalmakról a [weboldalunkon]({{ site.baseurl }}/szeminarium) és a [levelezőlistánkon]({{ site.baseurl }}/levelezolista) értesülhettek. Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet feliratkozni, aki csak 1-2 előadásra tudna benézni.
 
 Az első alkalom témája:
 
