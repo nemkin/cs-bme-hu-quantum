@@ -2,18 +2,8 @@
 # the default layout is 'page'
 title: Kapcsolat
 icon: fa-solid fa-at
-order: 10
+order: 11
 ---
-
-## Levelezőlista
-
-[quantum(at)cs.bme.hu](https://www.cs.bme.hu/mailman3/postorius/lists/quantum.cs.bme.hu/)
-
-Az aktuális hírekről, a tervezett szemináriumokról erről a levelezőlistáról értesülhettek.
-A feliratkozásról érkezni fog egy megerősítő e-mail, amit a GMail szeret a Spam mappába küldeni,
-az ott található linkre kell majd kattintani a véglegesítéshez.
-
-## Személyesen
 
 ### Dr. Friedl Katalin
 
