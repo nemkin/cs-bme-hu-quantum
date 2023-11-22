@@ -30,9 +30,11 @@ A következő kvantumalgoritmusok szeminárium témája:
 - Kvantumbitek reprezentálása fermionokkal (Abrikoszov-reprezentáció)
 - Kapukészlet: Fermionikus Lineáris Optika
 - Hatékonyan tárolható állapotok: gaussi állapotok
+
 2) A Fermionikus Lineáris Optikában megengedett kapuk:
 - Időfejlesztés egy nemkölcsönható Hamilton-operátorral
 - Majorana-párok mérése
+
 3) A felületi kód állapotpreparációjának szimulálása Fermionikus Lineáris Optika segítségével ([Bravyi, Sergey, et al. npj Quantum Information 4.1 (2018)](https://arxiv.org/abs/1710.02270)):
 - A felületi kód és annak Majorana-reprezentációja
 - A stabilizátormérések statisztikájának szimulálása.
