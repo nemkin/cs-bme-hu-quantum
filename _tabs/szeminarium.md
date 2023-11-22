@@ -16,7 +16,7 @@ Titkár: [Nemkin Viktória](https://cs.bme.hu/~nemkin)
 
 ## Aktuális előadás
 
-- 2023-11-27: [Clifford-szimulátor]({{ site.baseurl }}/posts/2023-11-14-clifford-szimulator)
+- 2023-11-27: [Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról]({{ site.baseurl }}/posts/2023-11-14-clifford-szimulator)
 
 ## Jövőbeli előadások
 
