@@ -29,9 +29,12 @@ A következő kvantumalgoritmusok szeminárium témája:
 - Heisenberg-kép vs Schrödinger-kép, Heisenberg-kép kvantumszámítógépekre
 - Clifford-operátorok, pl. CNOT
 - Stabilizátorformalizmus, -állapotok
+
 2) Mérések a Clifford-szimulátorban
+
 3) A szimuláció gyorsítása
 - 2004, Aaronson & Gottesman, [[Phys. Rev. A 70, 052328 (2004)]](https://arxiv.org/abs/quant-ph/0406196)
 - 2021, Gidney, [[Quantum 5, 497 (2021)]](https://arxiv.org/abs/2103.02202)
+
 4) Fermionok: mik azok? 
 - Ábrázolásuk kvantumbitekkel: Jordan-Wigner stringek
