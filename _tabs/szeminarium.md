@@ -16,17 +16,17 @@ Titkár: [Nemkin Viktória](https://cs.bme.hu/~nemkin)
 
 ## Aktuális előadás
 
-- 2023-11-20: [Elfs, trees and quantum walks]({{ site.baseurl }}/posts/2023-11-12-elfs-trees-and-quantum-walks)
+- 2023-11-27: [Clifford-szimulátor]({{ site.baseurl }}/posts/2023-11-14-clifford-szimulator)
 
 ## Jövőbeli előadások
 
-- 2023-11-27: [Clifford-szimulátor]({{ site.baseurl }}/posts/2023-11-14-clifford-szimulator)
 - 2023-12-04: [Majorana-szimulátor]({{ site.baseurl }}/posts/2023-11-14-majorana-szimulator)
 
 ## Elhangzott előadások
 
 ### 2023\. ősz
 
+- 2023-11-20: [Elfs, trees and quantum walks]({{ site.baseurl }}/posts/2023-11-12-elfs-trees-and-quantum-walks)
 - 2023-11-06: [Iterative refinement for quantum tomography]({{ site.baseurl }}/posts/2023-11-04-iterative-refinement-for-quantum-tomography)
 - 2023-09-25: [Kvantumbitek gazdag dinamikája]({{ site.baseurl }}/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja)
 
