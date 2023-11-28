@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2023-11-28T19:44:57+01:00</updated>
+  <updated>2023-11-28T19:46:31+01:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Szeminárium: Majorana-szimulátor</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Majorana-szimulátor" />
+    <title>Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával" />
     <published>2023-11-14T18:00:00+01:00</published>
   
     <updated>2023-11-14T18:00:00+01:00</updated>
