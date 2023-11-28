@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Szeminárium: Bevezetés a Szegedy-féle kvantumbolyongásokba'
-summary: '2023. március 17. péntek, 10:15 - 12:00, BME I ép. IB134'
+summary: '2023. március 17. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-03-13 23:42:00 +0200
 categories: [Szeminárium, 2023 tavasz]
 keywords: szeminárium, 2023 tavasz
@@ -26,5 +26,5 @@ Az első alkalom témája:
 
 ## Koordináták
 
-- **Időpont**: 2023. március 17. péntek, 10:15 - 12:00
+- **Időpont**: 2023. március 17. péntek, 10:15 - 11:15
 - **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
