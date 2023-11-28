@@ -65,7 +65,7 @@
 
     
     "snippet": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Iterative refinement for quantum tomography and quantum linear equation solving  Előadó: Gilyén AndrásKoordináták  Időpont: 2023. novem...",
-    "content": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Iterative refinement for quantum tomography and quantum linear equation solving  Előadó: Gilyén AndrásKoordináták  Időpont: 2023. november 6., hétfő 12:15 - 14:00  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)AbsztraktWe show how to use iterative refinement techniques, which is a technique from the 60’s suitedfor computers with low-precision arithmetic, for more efficient pure quantum state tomography,and for more efficient quantum linear equation solving via a divide and conquer strategy,which quadratically improves the condition number dependence of earlier methods andmatches that of the conjugate gradient method for generic non-Hermitian matrices."
+    "content": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Iterative refinement for quantum tomography and quantum linear equation solving  Előadó: Gilyén AndrásKoordináták  Időpont: 2023. november 6., hétfő 12:15 - 13:15  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)AbsztraktWe show how to use iterative refinement techniques, which is a technique from the 60’s suitedfor computers with low-precision arithmetic, for more efficient pure quantum state tomography,and for more efficient quantum linear equation solving via a divide and conquer strategy,which quadratically improves the condition number dependence of earlier methods andmatches that of the conjugate gradient method for generic non-Hermitian matrices."
   },
   
   {
