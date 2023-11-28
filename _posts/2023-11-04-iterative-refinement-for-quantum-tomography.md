@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving'
-summary: '2023. november 6., hétfő 12:15 - 14:00, BME I ép. IB134'
+summary: '2023. november 6., hétfő 12:15 - 13:15, BME I ép. IB134'
 date: 2023-11-04 03:53:00 +0100
 categories: [Szeminárium, 2023 ősz]
 keywords: szeminárium, 2023 ősz
@@ -20,7 +20,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 ## Koordináták
 
-- **Időpont**: 2023. november 6., hétfő 12:15 - 14:00
+- **Időpont**: 2023. november 6., hétfő 12:15 - 13:15
 - **Helyszín**: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)
 
 ## Absztrakt
