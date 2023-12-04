@@ -17,6 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról
 - **Előadó**: [Asbóth János](https://optics.szfki.kfki.hu/~asboth/) (BME Elm. Fiz. Tanszék és Wigner FK)
+- **Diasor**: [Link](https://quszit.github.io/szeminarium/2023_11_14_clifford_szimulator/janos_asboth_-_clifford_szimulator.pdf)
 
 ## Koordináták
 
