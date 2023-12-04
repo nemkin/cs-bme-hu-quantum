@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Szeminárium: Téli szünet",
+    "url": "/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/",
+    "categories": "Szeminárium, 2023 tavasz",
+    "tags": "szeminarium-2023-tavasz",
+    "date": "2023-12-04 23:25:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "A félévnek vége, köszönjük a sok hasznos és érdekes előadást az idei előadóinknak és a lelkes részvételt a hallgatóságnak! :)A szeminárium télen szünetel, februárban újra folytatjuk az előadásokat....",
+    "content": "A félévnek vége, köszönjük a sok hasznos és érdekes előadást az idei előadóinknak és a lelkes részvételt a hallgatóságnak! :)A szeminárium télen szünetel, februárban újra folytatjuk az előadásokat.Kérlek terjesszétek kollégáitok és diákjaitok között a szemináriumot, előadóként és hallgatóságként is szeretettel várunk titeket jövőre!Addig pedig boldog karácsonyt és új évet kívánunk!"
+  },
+  
+  {
     "title": "Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával",
     "url": "/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/",
     "categories": "Szeminárium, 2023 ősz",
@@ -31,7 +48,7 @@
 
     
     "snippet": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról  Előadó: Asbóth János (BME Elm. Fiz. Tanszék és Wigner FK)...",
-    "content": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról  Előadó: Asbóth János (BME Elm. Fiz. Tanszék és Wigner FK)Koordináták  Időpont: 2023. november 27., hétfő 12:30 - 13:30  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)Absztrakt1) Clifford-szimulátor alapgondolata (1998, Gottesman, [arxiv:quant-ph/9807006])  Heisenberg-kép vs Schrödinger-kép, Heisenberg-kép kvantumszámítógépekre  Clifford-operátorok, pl. CNOT  Stabilizátorformalizmus, -állapotok2) Mérések a Clifford-szimulátorban3) A szimuláció gyorsítása  2004, Aaronson &amp; Gottesman, [Phys. Rev. A 70, 052328 (2004)]  2021, Gidney, [Quantum 5, 497 (2021)]4) Fermionok: mik azok?  Ábrázolásuk kvantumbitekkel: Jordan-Wigner stringek"
+    "content": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról  Előadó: Asbóth János (BME Elm. Fiz. Tanszék és Wigner FK)  Diasor: LinkKoordináták  Időpont: 2023. november 27., hétfő 12:30 - 13:30  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)Absztrakt1) Clifford-szimulátor alapgondolata (1998, Gottesman, [arxiv:quant-ph/9807006])  Heisenberg-kép vs Schrödinger-kép, Heisenberg-kép kvantumszámítógépekre  Clifford-operátorok, pl. CNOT  Stabilizátorformalizmus, -állapotok2) Mérések a Clifford-szimulátorban3) A szimuláció gyorsítása  2004, Aaronson &amp; Gottesman, [Phys. Rev. A 70, 052328 (2004)]  2021, Gidney, [Quantum 5, 497 (2021)]4) Fermionok: mik azok?  Ábrázolásuk kvantumbitekkel: Jordan-Wigner stringek"
   },
   
   {

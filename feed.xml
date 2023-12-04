@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2023-11-28T20:12:29+01:00</updated>
+  <updated>2023-12-04T23:53:27+01:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -17,6 +17,34 @@
   <icon>/cs-bme-hu-quantum/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-quantum/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Szeminárium: Téli szünet</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/" rel="alternate" type="text/html" title="Szeminárium: Téli szünet" />
+    <published>2023-12-04T23:25:00+01:00</published>
+  
+    <updated>2023-12-04T23:25:00+01:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Szeminárium" />
+    
+    <category term="2023 tavasz" />
+    
+  
+
+  
+    <summary>Februárban találkozunk!</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -126,34 +154,6 @@
 
   
     <summary>2023. november 6., hétfő 12:15 - 13:15, BME I ép. IB134</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Szeminárium: Kvantumbitek gazdag dinamikája</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja/" rel="alternate" type="text/html" title="Szeminárium: Kvantumbitek gazdag dinamikája" />
-    <published>2023-09-18T01:31:00+02:00</published>
-  
-    <updated>2023-09-18T01:31:00+02:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Szeminárium" />
-    
-    <category term="2023 ősz" />
-    
-  
-
-  
-    <summary>2023. szeptember 25., hétfő 12:15 - 13:15, BME I ép. IB134</summary>
   
 
   </entry>
