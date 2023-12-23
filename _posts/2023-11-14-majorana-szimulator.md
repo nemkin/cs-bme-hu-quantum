@@ -17,6 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával
 - **Előadó**: [Márton Áron](https://tdk.bme.hu/Browse/Users/Marton-Aron)
+- **Diasor**: [Link](https://quszit.github.io/szeminarium/2023_11_14_majorana_szimulator/aron_marton_-_efficient_simulation_of_quantum_circuits_with_fermionic_linear_optics.pdf)
 
 ## Koordináták
 
