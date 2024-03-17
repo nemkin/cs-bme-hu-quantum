@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2023-12-23T23:08:03+01:00</updated>
+  <updated>2024-03-17T21:50:02+01:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -12,11 +12,39 @@
   <link rel="self" type="application/atom+xml" href="https://quszit.github.io/cs-bme-hu-quantum/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="hu-HU"
     href="https://quszit.github.io/cs-bme-hu-quantum/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 QuSZIT </rights>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 QuSZIT </rights>
   <icon>/cs-bme-hu-quantum/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-quantum/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Seminar: Unitary Complexity and the Uhlmann Transformation Problem</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/" rel="alternate" type="text/html" title="Seminar: Unitary Complexity and the Uhlmann Transformation Problem" />
+    <published>2024-03-17T21:00:00+01:00</published>
+  
+    <updated>2024-03-17T21:00:00+01:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Seminar" />
+    
+    <category term="2024 spring" />
+    
+  
+
+  
+    <summary>2024 March 21, Monday 16:15 | BME Building I, IB134</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -126,34 +154,6 @@
 
   
     <summary>2023. november 20., hétfő 12:30 - 13:30, BME I ép. IB134</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/" rel="alternate" type="text/html" title="Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving" />
-    <published>2023-11-04T03:53:00+01:00</published>
-  
-    <updated>2023-11-04T03:53:00+01:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Szeminárium" />
-    
-    <category term="2023 ősz" />
-    
-  
-
-  
-    <summary>2023. november 6., hétfő 12:15 - 13:15, BME I ép. IB134</summary>
   
 
   </entry>
