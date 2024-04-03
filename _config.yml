@@ -13,7 +13,7 @@ social:
     - https://cs.bme.hu/quantum
     - https://github.com/quszit
 
-lang: hu-HU
+lang: en
 timezone: Europe/Budapest
 
 remote_theme: nemkin/jekyll-theme-chirpy
