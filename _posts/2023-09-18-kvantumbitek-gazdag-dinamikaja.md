@@ -21,7 +21,7 @@ Az első alkalom témája:
 
 - **Cím**: Kvantumbitek gazdag dinamikája
 - **Előadó**: [Kiss Tamás](http://bird.szfki.kfki.hu/~tkiss/index_hu.html)
-- **Diasor**: [Link](https://quszit.github.io/szeminarium/2023_09_18_kvantumbitek_gazdag_dinamikaja/tamas_kiss_-_kvantumbitek_gazdag_dinamikaja.pdf)
+- **Diasor**: [Link](https://quszit.github.io/seminar/tamas-kiss-2023-09-18-seminar-kvantumbitek-gazdag-dinamikaja.pdf)
 
 ## Koordináták
 
