@@ -5,22 +5,22 @@ icon: fa-solid fa-at
 order: 11
 ---
 
-### Dr. Friedl Katalin
+### Katalin Friedl
 
-egyetemi docens  
-[IB137/a](https://www.szit.bme.hu/rolunk/kapcsolat.html)  
+associate professor  
+[IB137/a](https://www.szit.bme.hu/english/about_us/contact.html)  
 [friedl(at)cs.bme.hu](mailto:friedl@cs.bme.hu)  
-[cs.bme.hu/~friedl](https://cs.bme.hu/~friedl)
+[cs.bme.hu/~friedl](https://cs.bme.hu/~friedl/indexen.html)
 
-### Kabódi László
+### László Kabódi
 
-egyetemi tanársegéd  
-[IB137/a](https://www.szit.bme.hu/rolunk/kapcsolat.html)  
+assistant lecturer  
+[IB137/a](https://www.szit.bme.hu/english/about_us/contact.html)  
 [kabodil(at)gmail.com](mailto:kabodil@gmail.com)
 
-### Nemkin Viktória
+### Viktória Nemkin
 
-doktorandusz  
-[IE216/3](https://www.szit.bme.hu/rolunk/kapcsolat.html)  
+PhD student  
+[IE216/3](https://www.szit.bme.hu/english/about_us/contact.html)  
 [nemkin(at)cs.bme.hu](mailto:nemkin@cs.bme.hu)  
 [cs.bme.hu/~nemkin](https://cs.bme.hu/~nemkin)
