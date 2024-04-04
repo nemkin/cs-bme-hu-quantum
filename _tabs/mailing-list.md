@@ -1,6 +1,6 @@
 ---
-# the default layout is 'page'
-title: Levelezőlista
+layout: page
+title: Mailing list
 icon: fa-solid fa-envelope
 order: 10
 ---
