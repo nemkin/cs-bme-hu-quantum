@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2024-04-06T22:35:28+02:00</updated>
+  <updated>2024-04-06T22:39:58+02:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -36,7 +36,7 @@
     
     <category term="Seminar" />
     
-    <category term="2024 spring" />
+    <category term="2024 Spring" />
     
   
 
@@ -64,7 +64,7 @@
     
     <category term="Seminar" />
     
-    <category term="2024 spring" />
+    <category term="2024 Spring" />
     
   
 
@@ -90,9 +90,9 @@
 
   
     
-    <category term="Szeminárium" />
+    <category term="Seminar" />
     
-    <category term="2023 tavasz" />
+    <category term="2023 Fall" />
     
   
 
@@ -118,9 +118,9 @@
 
   
     
-    <category term="Szeminárium" />
+    <category term="Seminar" />
     
-    <category term="2023 ősz" />
+    <category term="2023 Fall" />
     
   
 
@@ -146,9 +146,9 @@
 
   
     
-    <category term="Szeminárium" />
+    <category term="Seminar" />
     
-    <category term="2023 ősz" />
+    <category term="2023 Fall" />
     
   
 
