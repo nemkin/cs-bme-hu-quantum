@@ -4,10 +4,10 @@ author: nemkin
 title: 'Szeminárium: Mintavételezés kvantumos bolyongásokkal'
 summary: '2023. március 31. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-03-28 12:17:00 +0100
-categories: [Szeminárium, 2023 tavasz]
-keywords: szeminárium, 2023 tavasz
+categories: [Seminar, 2023 Spring]
+keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
- - szeminarium-2023-tavasz
+ - seminar-2023-spring
 math: false
 hidden: true
 ---

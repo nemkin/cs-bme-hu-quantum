@@ -4,10 +4,10 @@ author: nemkin
 title: 'Szeminárium: Bevezetés a Szegedy-féle kvantumbolyongásokba'
 summary: '2023. március 17. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-03-13 23:42:00 +0200
-categories: [Szeminárium, 2023 tavasz]
-keywords: szeminárium, 2023 tavasz
+categories: [Seminar, 2023 Spring]
+keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
- - szeminarium-2023-tavasz
+ - seminar-2023-spring
 math: false
 hidden: true
 ---

@@ -4,10 +4,10 @@ author: nemkin
 title: 'Szeminárium: Kvantumbitek gazdag dinamikája'
 summary: '2023. szeptember 25., hétfő 12:15 - 13:15, BME I ép. IB134'
 date: 2023-09-18 01:31:00 +0200
-categories: [Szeminárium, 2023 ősz]
-keywords: szeminárium, 2023 ősz
+categories: [Seminar, 2023 Fall]
+keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
- - szeminarium-2023-ősz
+ - seminar-2023-fall
 math: false
 ---
 

@@ -4,10 +4,10 @@ author: nemkin
 title: 'Külsős szeminárium: Quantum Thermal State Preparation'
 summary: '2023. május 12. péntek, 10:15 - 11:00 + kérdések, BME F III ép. mf 1.'
 date: 2023-05-09 16:25:00 +0100
-categories: [Szeminárium, 2023 tavasz]
-keywords: szeminárium, 2023 tavasz
+categories: [Seminar, 2023 Spring]
+keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
- - szeminarium-2023-tavasz
+ - seminar-2023-spring
 math: false
 hidden: true
 ---
