@@ -25,7 +25,7 @@ Nyelv: magyar
 
 ## Kvantumséták szimulációja klasszikus számítógépen
 
-Szerző: [Nemkin Viktória]({{ site.baseurl }}/kapcsolat#nemkin-viktória)  
+Szerző: Nemkin Viktória  
 Konzulens: Katalin Friedl  
 Típus: TDK  
 Dátum: 2021. november 16.  
@@ -56,7 +56,7 @@ Nyelv: magyar
 
 ## Kvantumalgoritmusok véletlen bolyongással
 
-Szerző: [Kabódi László]({{ site.baseurl }}/kapcsolat#kabódi-lászló)  
+Szerző: Kabódi László  
 Konzulens: Katalin Friedl  
 Típus: Diplomaterv  
 Dátum: 2014. december 29.  
@@ -65,7 +65,7 @@ Nyelv: magyar
 
 ## Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata
 
-Szerző: [Kabódi László]({{ site.baseurl }}/kapcsolat#kabódi-lászló)  
+Szerző: Kabódi László  
 Konzulens: Katalin Friedl  
 Típus: TDK  
 Dátum: 2014. november 11.  

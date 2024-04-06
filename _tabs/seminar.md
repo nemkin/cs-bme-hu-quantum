@@ -7,7 +7,7 @@ order: 2
 
 In the spring of 2023, we launched a seminar series titled Quantum Algorithms, where you can learn about the world of quantum computing through lectures on a variety of topics, ranging from established findings to ongoing research, delivered by both students and researchers.
 
-You can find information about the upcoming and past sessions on [our website]({{ site.baseurl }}/szeminarium) and through [our mailing list]({{ site.baseurl }}/levelezolista). The sessions may not necessarily build upon each other, so it might be worthwhile to subscribe even if you can only attend one or two lectures.
+You can find information about the upcoming and past sessions on [our website]({{ site.baseurl }}/seminar) and through [our mailing list]({{ site.baseurl }}/mailing-list). The sessions may not necessarily build upon each other, so it might be worthwhile to subscribe even if you can only attend one or two lectures.
 
 Chair: [Katalin Friedl](https://cs.bme.hu/~friedl), [András Gilyén](http://gilyen.hu)  
 Coordinator: [Viktória Nemkin](https://cs.bme.hu/~nemkin)

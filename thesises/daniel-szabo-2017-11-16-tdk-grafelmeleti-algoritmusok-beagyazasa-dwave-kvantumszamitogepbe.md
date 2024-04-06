@@ -61,7 +61,7 @@ References:
 [5] Eleanor G. Rieffel, Davide Venturelli, Bryan O'Gorman, Minh B. Do, Elicia Prystay, and Vadim N. Smelyanskiy. A case study in programming a quantum annealer for hard operational planning problems (2014). arXiv:1407.2887v1: https://arxiv.org/pdf/1407.2887.pdf
 
 
-![Chimera graph]({{site.baseurl}}/assets/thesises/daniel-szabo-2017-11-16-tdk-grafelmeleti-algoritmusok-beagyazasa-dwave-kvantumszamitogepbe.png)
+![Chimera graph](/assets/thesises/daniel-szabo-2017-11-16-tdk-grafelmeleti-algoritmusok-beagyazasa-dwave-kvantumszamitogepbe.png)
 
 ## Related
 
