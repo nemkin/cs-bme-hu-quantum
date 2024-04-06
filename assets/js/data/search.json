@@ -31,7 +31,7 @@
 
     
     "snippet": "The Quantum Algorithms seminar resumes in the spring of 2024. Learn about the world of quantum computing through lectures on a variety of topics, ranging from established findings to ongoing resear...",
-    "content": "The Quantum Algorithms seminar resumes in the spring of 2024. Learn about the world of quantum computing through lectures on a variety of topics, ranging from established findings to ongoing research, delivered by both students and researchers.You can find information about the current sessions on our website and through our mailing list. The sessions may not necessarily build upon each other, so it might be worthwhile to subscribe even if you can only attend one or two lectures.The topic of the first session:Topic  Title: Unitary Complexity and the Uhlmann Transformation Problem  Presenter: Tony Metger on video at QIP 2024  Video: LinkCoordinates  Time: 2024 March 21, Thursday 16:15 (1 hour + questions)  Place: BME Building I, IB134 (inside the SZIT department)AbstractState transformation problems such as compressing quantum information or breaking quantum commitments are fundamental quantum tasks. However, their computational difficulty cannot easily be characterized using traditional complexity theory, which focuses on tasks with classical inputs and outputs.To study the complexity of such state transformation tasks, we introduce a framework for unitary synthesis problems, including notions of reductions and unitary complexity classes. We use this framework to study the complexity of transforming one entangled state into another via local operations. We formalize this as the Uhlmann Transformation Problem, an algorithmic version of Uhlmann’s theorem. Then, we prove structural results relating the complexity of the Uhlmann Transformation Problem, polynomial space quantum computation, and zero knowledge protocols.The Uhlmann Transformation Problem allows us to characterize the complexity of a variety of tasks in quantum information processing, including decoding noisy quantum channels, breaking falsifiable quantum cryptographic assumptions, implementing optimal prover strategies in quantum interactive proofs, and decoding the Hawking radiation of black holes. Our framework for unitary complexity thus provides new avenues for studying the computational complexity of many natural quantum information processing tasks."
+    "content": "The Quantum Algorithms seminar resumes in the spring of 2024. Learn about the world of quantum computing through lectures on a variety of topics, ranging from established findings to ongoing research, delivered by both students and researchers.You can find information about the upcoming and past sessions on our website and through our mailing list. The sessions may not necessarily build upon each other, so it might be worthwhile to subscribe even if you can only attend one or two lectures.The topic of the first session:Topic  Title: Unitary Complexity and the Uhlmann Transformation Problem  Presenter: Tony Metger on video at QIP 2024  Video: LinkCoordinates  Time: 2024 March 21, Thursday 16:15 (1 hour + questions)  Place: BME Building I, IB134 (inside the SZIT department)AbstractState transformation problems such as compressing quantum information or breaking quantum commitments are fundamental quantum tasks. However, their computational difficulty cannot easily be characterized using traditional complexity theory, which focuses on tasks with classical inputs and outputs.To study the complexity of such state transformation tasks, we introduce a framework for unitary synthesis problems, including notions of reductions and unitary complexity classes. We use this framework to study the complexity of transforming one entangled state into another via local operations. We formalize this as the Uhlmann Transformation Problem, an algorithmic version of Uhlmann’s theorem. Then, we prove structural results relating the complexity of the Uhlmann Transformation Problem, polynomial space quantum computation, and zero knowledge protocols.The Uhlmann Transformation Problem allows us to characterize the complexity of a variety of tasks in quantum information processing, including decoding noisy quantum channels, breaking falsifiable quantum cryptographic assumptions, implementing optimal prover strategies in quantum interactive proofs, and decoding the Hawking radiation of black holes. Our framework for unitary complexity thus provides new avenues for studying the computational complexity of many natural quantum information processing tasks."
   },
   
   {
@@ -137,23 +137,6 @@
   },
   
   {
-    "title": "Szeminárium: Nyári szünet",
-    "url": "/cs-bme-hu-quantum/posts/2023-05-29-szeminarium-szunet/",
-    "categories": "Szeminárium, 2023 tavasz",
-    "tags": "szeminarium-2023-tavasz",
-    "date": "2023-05-29 21:25:00 +0200",
-    
-
-
-
-
-
-    
-    "snippet": "A félévnek vége, a szeminárium nyáron szünetel. Ősszel találkozunk!",
-    "content": "A félévnek vége, a szeminárium nyáron szünetel. Ősszel találkozunk!"
-  },
-  
-  {
     "title": "Szeminárium: Kvantumalgoritmusok az izogénia-alapú kriptográfiában",
     "url": "/cs-bme-hu-quantum/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/",
     "categories": "Szeminárium, 2023 tavasz",
@@ -205,23 +188,6 @@
   },
   
   {
-    "title": "Szeminárium: Elmarad",
-    "url": "/cs-bme-hu-quantum/posts/2023-05-02-szeminarium-elmarad/",
-    "categories": "Szeminárium, 2023 tavasz",
-    "tags": "szeminarium-2023-tavasz",
-    "date": "2023-05-02 14:22:00 +0200",
-    
-
-
-
-
-
-    
-    "snippet": "Ezen a héten pénteken BME-s munkanap átrendezés miatt a szeminárium elmarad.",
-    "content": "Ezen a héten pénteken BME-s munkanap átrendezés miatt a szeminárium elmarad."
-  },
-  
-  {
     "title": "Szeminárium: Összefonódás és ami mögötte van",
     "url": "/cs-bme-hu-quantum/posts/2023-04-24-osszefonodas-es-ami-mogotte-van/",
     "categories": "Szeminárium, 2023 tavasz",
@@ -270,23 +236,6 @@
     
     "snippet": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció  Előadó: Gilyén András  Diasor: LinkKoordináták...",
     "content": "A következő kvantumalgoritmusok szeminárium témája:Téma  Cím: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció  Előadó: Gilyén András  Diasor: LinkKoordináták  Időpont: 2023. április 14. péntek, 10:15 - 11:15  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)AbsztraktA kvantumos algoritmusok lineáris algebrai megközelítése az elmúlt években elvezetett egy egységes algoritmikus keretrendszer kifejlesztéséhez. A kvantumos szingulárisérték-transzformáció a kvantumos algoritmusok egy olyan absztrakciója ami egyben közös általánosítása a Grover keresésnek, az amplitúdó amplifikációnak, a Szegedy-féle kvantumos bolyongásoknak, a Hamilton-szimulációnak és a kvantumos lineáris egyenlet megoldó (HHL) algoritmusoknak."
-  },
-  
-  {
-    "title": "Szeminárium: Elmarad",
-    "url": "/cs-bme-hu-quantum/posts/2023-04-05-szeminarium-elmarad/",
-    "categories": "Szeminárium, 2023 tavasz",
-    "tags": "szeminarium-2023-tavasz",
-    "date": "2023-04-05 00:10:00 +0200",
-    
-
-
-
-
-
-    
-    "snippet": "Ezen a héten a szeminárium a nagypéntek/tavaszi szünet miatt elmarad.",
-    "content": "Ezen a héten a szeminárium a nagypéntek/tavaszi szünet miatt elmarad."
   },
   
   {
