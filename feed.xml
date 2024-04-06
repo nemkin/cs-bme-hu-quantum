@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Quantum algorithms at BME VIK SZIT.</subtitle>
-  <updated>2024-04-07T00:43:02+02:00</updated>
+  <updated>2024-04-07T00:43:34+02:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Seminar: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-04-03-multivariate-mean-estimation/" rel="alternate" type="text/html" title="Seminar: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation" />
+    <title>Near-Optimal Quantum Algorithms for Multivariate Mean Estimation</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-04-03-multivariate-mean-estimation/" rel="alternate" type="text/html" title="Near-Optimal Quantum Algorithms for Multivariate Mean Estimation" />
     <published>2024-04-03T21:59:00+02:00</published>
   
     <updated>2024-04-03T21:59:00+02:00</updated>
@@ -46,8 +46,8 @@
 
   
   <entry>
-    <title>Seminar: Unitary Complexity and the Uhlmann Transformation Problem</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/" rel="alternate" type="text/html" title="Seminar: Unitary Complexity and the Uhlmann Transformation Problem" />
+    <title>Unitary Complexity and the Uhlmann Transformation Problem</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/" rel="alternate" type="text/html" title="Unitary Complexity and the Uhlmann Transformation Problem" />
     <published>2024-03-17T21:00:00+01:00</published>
   
     <updated>2024-03-17T21:00:00+01:00</updated>
