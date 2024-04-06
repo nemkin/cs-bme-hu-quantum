@@ -3,7 +3,7 @@
 {
   "name": "QuSZIT",
   "short_name": "QuSZIT",
-  "description": "Kvantumalgoritmusok a BME VIK SZIT-en.",
+  "description": "Quantum algorithms at BME VIK SZIT.",
   "icons": [
     {
       "src": "/cs-bme-hu-quantum/assets/img/favicons/android-chrome-192x192.png",
