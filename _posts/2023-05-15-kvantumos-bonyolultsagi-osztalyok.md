@@ -1,10 +1,10 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Kvantumos bonyolultsági osztályok'
+title: 'Kvantumos bonyolultsági osztályok'
 summary: '2023. május 19. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-05-15 21:37:00 +0100
-categories: [Seminar, 2023 (1) Spring]
+categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-spring

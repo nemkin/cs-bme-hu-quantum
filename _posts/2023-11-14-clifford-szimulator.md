@@ -1,11 +1,11 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról'
+title: 'Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról'
 summary: '2023. november 27., hétfő 12:30 - 13:30, BME I ép. IB134'
 date: 2023-11-14 18:00:00 +0100
 categories: [Szeminárium, 2023 ősz]
-categories: [Seminar, 2023 (2) Fall]
+categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-fall

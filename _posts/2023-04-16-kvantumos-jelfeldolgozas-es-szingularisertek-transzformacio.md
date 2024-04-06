@@ -1,10 +1,10 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Kvantumos jelfeldolgozás és szingulárisérték transzformáció'
+title: 'Kvantumos jelfeldolgozás és szingulárisérték transzformáció'
 summary: '2023. április 21. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-04-16 21:57:00 +0100
-categories: [Seminar, 2023 (1) Spring]
+categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-spring

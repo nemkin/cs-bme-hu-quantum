@@ -4,7 +4,7 @@ author: nemkin
 title: 'Seminar: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation'
 summary: '2024 April 11, Thursday 16:15 | BME Building I, IB134'
 date: 2024-04-03 21:59:00 +0200
-categories: [Seminar, 2024 (1) Spring]
+categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2024-spring

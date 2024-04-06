@@ -1,10 +1,10 @@
 ---
 layout: post
 author: nemkin
-title: 'Szeminárium: Téli szünet'
+title: 'Szeminárium téli szünet'
 summary: Februárban találkozunk!
 date: 2023-12-04 23:25:00 +0100
-categories: [Seminar, 2023 (2) Fall]
+categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-fall
