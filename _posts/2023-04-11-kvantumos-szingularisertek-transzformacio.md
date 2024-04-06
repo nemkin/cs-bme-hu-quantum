@@ -4,7 +4,7 @@ author: nemkin
 title: 'Szeminárium: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció'
 summary: '2023. április 14. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-04-11 00:03:00 +0100
-categories: [Seminar, 2023 Spring]
+categories: [Seminar, 2023 (1) Spring]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-spring

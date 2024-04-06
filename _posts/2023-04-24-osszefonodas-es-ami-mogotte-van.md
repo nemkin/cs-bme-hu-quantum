@@ -4,7 +4,7 @@ author: nemkin
 title: 'Szeminárium: Összefonódás és ami mögötte van'
 summary: '2023. április 28. péntek, 10:15 - 11:15, BME I ép. IB134'
 date: 2023-04-24 22:08:00 +0100
-categories: [Seminar, 2023 Spring]
+categories: [Seminar, 2023 (1) Spring]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-spring
