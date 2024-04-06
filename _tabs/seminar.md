@@ -14,7 +14,7 @@ Coordinator: [Viktória Nemkin](https://cs.bme.hu/~nemkin)
 
 ## Upcoming sessions
 
-- 2024-04-11: [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation]({{ site.baseurl }}/posts/2024-04-03-multivariate-mean-estimation)
+- 2024-04-11: [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation]({{ site.baseurl }}/posts/2024-04-11-multivariate-mean-estimation)
 
 ## Past sessions
 
