@@ -5,8 +5,8 @@ icon: fa-solid fa-envelope
 order: 10
 ---
 
-A listára feliratkozásról megerősítő e-mail érkezik, a benne található linkre **rá kell kattintani** a véglegesítéshez!
+Join our mailing list to stay informed about the latest news, upcoming seminars, and other events related to quantum computing.
 
-Feliratkozás itt: [quantum(at)cs.bme.hu](https://www.cs.bme.hu/mailman3/postorius/lists/quantum.cs.bme.hu/)
+To complete your subscription, you **must click on the link in the confirmation email**.
 
-Az aktuális hírekről, a tervezett szemináriumokról erről a levelezőlistáról értesülhettek.
+Subscribe here: [quantum(at)cs.bme.hu](https://www.cs.bme.hu/mailman3/postorius/lists/quantum.cs.bme.hu/)
