@@ -3,11 +3,10 @@ layout: page
 title: Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe
 ---
 
-| Key | Value |
-| :- | :- |
 | **Author** | Dániel Szabó |
+| :- | :- |
 | **Consultant** | Katalin Friedl |
-| **Type** | TDK 2nd price |
+| **Type** | TDK (2nd prize) |
 | **Date** | 2017. November 16. |
 | **Language** | Hungarian |
 
