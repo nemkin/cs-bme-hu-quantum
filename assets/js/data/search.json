@@ -270,6 +270,23 @@
     
     "snippet": "2023. tavaszán Kvantumalgoritmusok címmel szemináriumot indítunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő ...",
     "content": "2023. tavaszán Kvantumalgoritmusok címmel szemináriumot indítunk, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.Az aktuális alkalmakról a weboldalunkon és a levelezőlistánkon értesülhettek. Az alkalmak nem feltétlenül épülnek majd egymásra, tehát annak is érdemes lehet feliratkozni, aki csak 1-2 előadásra tudna benézni.Az első alkalom témája:Téma  Cím: Bevezetés a Szegedy-féle kvantumbolyongásokba  Előadó: Gilyén András  Diasor: LinkKoordináták  Időpont: 2023. március 17. péntek, 10:15 - 11:15  Helyszín: IB134-es terem (BME I épület, 1. emelet, SZIT tanszéken belül)"
+  },
+  
+  {
+    "title": "Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe",
+    "url": "/cs-bme-hu-quantum/posts/2017-11-16-grafelmeleti-algoritmusok-beagyazasa-dwave/",
+    "categories": "TDK",
+    "tags": "tdk-2017",
+    "date": "2017-11-16 08:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "            Author      Dániel Szabó                  Consultant      Katalin Friedl              Type      TDK (2nd prize)              Date      2017. November 16.              Language      Hung...",
+    "content": "            Author      Dániel Szabó                  Consultant      Katalin Friedl              Type      TDK (2nd prize)              Date      2017. November 16.              Language      Hungarian      https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWaveDownloadAbstractNowadays quantum computing is getting more and more publicity. For example, we can hear news about new quantum computers or breakthroughs in quantum communication. These may cause quantum algorithms to become more and more important in the not too distant future.Quantum computing is based on quantum mechanical effects which describes the movement of microparticles probabilistically. A quantum bit can be realized with a microparticle which can be in a superposition of 0and 1 at a time with probability p and 1-p respectively. So, an n-quantum bit system encodes 2^n states at a time, and in a classical computer the number of bits used to store the probabilities for each state is proportional to them. That is why several problems can be solved more efficiently on a quantum computer than on a classical one. E.g. factorization, searching in unordered sets [1] [2].The Canadian D-Wave Systems was the first company in the world to sell quantum computers. Their latest model is a 2048-quantum bit system [3]. Although, it is controversial that these computers really work by quantum principles, the computational model that they provide is worth to investigate. This model is based on the Chimera graph, in which we should embed our problems [4].One goal of the work is to help to understand the model. I embedded some NP-complete graph theory problems (e.g. find the maximum clique size in a graph, determine the maximum size of a complete bipartite subgraph). These use some ideas from earlier results [5] that I also present. Plenty of everyday problems can be translated to graph theory problems (e.g. community search in large networks), so there is hope that in time this method will lead to efficient solutions of such problems.References:[1] Mika Hirvensalo. Quantum Computing (2nd edition, 2004). Springer – Verlag Berlin Heidelberg[2] Nielsen, M. and Chuang, I. L.. Quantum Computing and Quantum Information (2001). Cambridge University Press, Cambridge.[3] Wikipedia – D-Wave Systems: https://en.wikipedia.org/wiki/D-Wave_Systems (2017. 09. 20.)[4] E. D. Dahl. Programming with D-Wave: Map Coloring Problem (2013): [5] Eleanor G. Rieffel, Davide Venturelli, Bryan O’Gorman, Minh B. Do, Elicia Prystay, and Vadim N. Smelyanskiy. A case study in programming a quantum annealer for hard operational planning problems (2014). arXiv:1407.2887v1: https://arxiv.org/pdf/1407.2887.pdf"
   }
   
 ]
