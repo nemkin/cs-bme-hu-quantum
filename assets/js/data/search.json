@@ -3,7 +3,7 @@
   {
     "title": "Seminar: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation",
     "url": "/cs-bme-hu-quantum/posts/2024-04-03-multivariate-mean-estimation/",
-    "categories": "Seminar, 2024 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2024-spring",
     "date": "2024-04-03 21:59:00 +0200",
     
@@ -20,7 +20,7 @@
   {
     "title": "Seminar: Unitary Complexity and the Uhlmann Transformation Problem",
     "url": "/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/",
-    "categories": "Seminar, 2024 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2024-spring",
     "date": "2024-03-17 21:00:00 +0100",
     
@@ -35,9 +35,9 @@
   },
   
   {
-    "title": "Szeminárium: Téli szünet",
+    "title": "Szeminárium téli szünet",
     "url": "/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/",
-    "categories": "Seminar, 2023 (2) Fall",
+    "categories": "Seminar",
     "tags": "seminar-2023-fall",
     "date": "2023-12-04 23:25:00 +0100",
     
@@ -52,9 +52,9 @@
   },
   
   {
-    "title": "Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával",
+    "title": "Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával",
     "url": "/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/",
-    "categories": "Seminar, 2023 (2) Fall",
+    "categories": "Seminar",
     "tags": "seminar-2023-fall",
     "date": "2023-11-14 18:00:00 +0100",
     
@@ -69,9 +69,9 @@
   },
   
   {
-    "title": "Szeminárium: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról",
+    "title": "Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról",
     "url": "/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/",
-    "categories": "Seminar, 2023 (2) Fall",
+    "categories": "Seminar",
     "tags": "seminar-2023-fall",
     "date": "2023-11-14 18:00:00 +0100",
     
@@ -86,9 +86,9 @@
   },
   
   {
-    "title": "Szeminárium: Elfs, trees and quantum walks",
+    "title": "Elfs, trees and quantum walks",
     "url": "/cs-bme-hu-quantum/posts/2023-11-12-elfs-trees-and-quantum-walks/",
-    "categories": "Seminar, 2023 (2) Fall",
+    "categories": "Seminar",
     "tags": "seminar-2023-fall",
     "date": "2023-11-12 21:00:00 +0100",
     
@@ -103,9 +103,9 @@
   },
   
   {
-    "title": "Szeminárium: Iterative refinement for quantum tomography and quantum linear equation solving",
+    "title": "Iterative refinement for quantum tomography and quantum linear equation solving",
     "url": "/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/",
-    "categories": "Seminar, 2023 (2) Fall",
+    "categories": "Seminar",
     "tags": "seminar-2023-fall",
     "date": "2023-11-04 03:53:00 +0100",
     
@@ -120,9 +120,9 @@
   },
   
   {
-    "title": "Szeminárium: Kvantumbitek gazdag dinamikája",
+    "title": "Kvantumbitek gazdag dinamikája",
     "url": "/cs-bme-hu-quantum/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja/",
-    "categories": "Seminar, 2023 (2) Fall",
+    "categories": "Seminar",
     "tags": "seminar-2023-fall",
     "date": "2023-09-18 01:31:00 +0200",
     
@@ -137,9 +137,9 @@
   },
   
   {
-    "title": "Szeminárium: Kvantumalgoritmusok az izogénia-alapú kriptográfiában",
+    "title": "Kvantumalgoritmusok az izogénia-alapú kriptográfiában",
     "url": "/cs-bme-hu-quantum/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-05-23 14:23:00 +0200",
     
@@ -154,9 +154,9 @@
   },
   
   {
-    "title": "Szeminárium: Kvantumos bonyolultsági osztályok",
+    "title": "Kvantumos bonyolultsági osztályok",
     "url": "/cs-bme-hu-quantum/posts/2023-05-15-kvantumos-bonyolultsagi-osztalyok/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-05-15 22:37:00 +0200",
     
@@ -171,9 +171,9 @@
   },
   
   {
-    "title": "Külsős szeminárium: Quantum Thermal State Preparation",
+    "title": "Külsős Quantum Thermal State Preparation",
     "url": "/cs-bme-hu-quantum/posts/2023-05-09-quantum-thermal-state-preparation/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-05-09 17:25:00 +0200",
     
@@ -188,9 +188,9 @@
   },
   
   {
-    "title": "Szeminárium: Összefonódás és ami mögötte van",
+    "title": "Összefonódás és ami mögötte van",
     "url": "/cs-bme-hu-quantum/posts/2023-04-24-osszefonodas-es-ami-mogotte-van/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-04-24 23:08:00 +0200",
     
@@ -205,9 +205,9 @@
   },
   
   {
-    "title": "Szeminárium: Kvantumos jelfeldolgozás és szingulárisérték transzformáció",
+    "title": "Kvantumos jelfeldolgozás és szingulárisérték transzformáció",
     "url": "/cs-bme-hu-quantum/posts/2023-04-16-kvantumos-jelfeldolgozas-es-szingularisertek-transzformacio/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-04-16 22:57:00 +0200",
     
@@ -222,9 +222,9 @@
   },
   
   {
-    "title": "Szeminárium: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció",
+    "title": "A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció",
     "url": "/cs-bme-hu-quantum/posts/2023-04-11-kvantumos-szingularisertek-transzformacio/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-04-11 01:03:00 +0200",
     
@@ -239,9 +239,9 @@
   },
   
   {
-    "title": "Szeminárium: Mintavételezés kvantumos bolyongásokkal",
+    "title": "Mintavételezés kvantumos bolyongásokkal",
     "url": "/cs-bme-hu-quantum/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-03-28 13:17:00 +0200",
     
@@ -256,9 +256,9 @@
   },
   
   {
-    "title": "Szeminárium: Bevezetés a Szegedy-féle kvantumbolyongásokba",
+    "title": "Bevezetés a Szegedy-féle kvantumbolyongásokba",
     "url": "/cs-bme-hu-quantum/posts/2023-03-13-bevezetes-a-szegedy-fele-kvantumbolyongasokba/",
-    "categories": "Seminar, 2023 (1) Spring",
+    "categories": "Seminar",
     "tags": "seminar-2023-spring",
     "date": "2023-03-13 22:42:00 +0100",
     

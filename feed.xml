@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Quantum algorithms at BME VIK SZIT.</subtitle>
-  <updated>2024-04-06T23:05:57+02:00</updated>
+  <updated>2024-04-07T00:18:14+02:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -36,8 +36,6 @@
     
     <category term="Seminar" />
     
-    <category term="2024 (1) Spring" />
-    
   
 
   
@@ -64,8 +62,6 @@
     
     <category term="Seminar" />
     
-    <category term="2024 (1) Spring" />
-    
   
 
   
@@ -76,8 +72,8 @@
 
   
   <entry>
-    <title>Szeminárium: Téli szünet</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/" rel="alternate" type="text/html" title="Szeminárium: Téli szünet" />
+    <title>Szeminárium téli szünet</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/" rel="alternate" type="text/html" title="Szeminárium téli szünet" />
     <published>2023-12-04T23:25:00+01:00</published>
   
     <updated>2023-12-04T23:25:00+01:00</updated>
@@ -92,8 +88,6 @@
     
     <category term="Seminar" />
     
-    <category term="2023 (2) Fall" />
-    
   
 
   
@@ -104,8 +98,8 @@
 
   
   <entry>
-    <title>Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával" />
+    <title>Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" rel="alternate" type="text/html" title="Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával" />
     <published>2023-11-14T18:00:00+01:00</published>
   
     <updated>2023-11-14T18:00:00+01:00</updated>
@@ -120,8 +114,6 @@
     
     <category term="Seminar" />
     
-    <category term="2023 (2) Fall" />
-    
   
 
   
@@ -132,8 +124,8 @@
 
   
   <entry>
-    <title>Szeminárium: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról" />
+    <title>Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/" rel="alternate" type="text/html" title="Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról" />
     <published>2023-11-14T18:00:00+01:00</published>
   
     <updated>2023-11-14T18:00:00+01:00</updated>
@@ -147,8 +139,6 @@
   
     
     <category term="Seminar" />
-    
-    <category term="2023 (2) Fall" />
     
   
 
