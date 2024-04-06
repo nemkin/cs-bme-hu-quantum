@@ -3,6 +3,14 @@ layout: page
 title: Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe
 ---
 
+| Key | Value |
+| :- | :- |
+| **Author** | Dániel Szabó |
+| **Consultant** | Katalin Friedl |
+| **Type** | TDK 2nd price |
+| **Date** | 2017. November 16. |
+| **Language** | Hungarian |
+
 <a
   href="https://quszit.github.io/thesises/daniel-szabo-2017-11-16-tdk-grafelmeleti-algoritmusok-beagyazasa-dwave-kvantumszamitogepbe.pdf"
   download
@@ -18,25 +26,13 @@ title: Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe
     text-decoration: none;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s ease;"
-    onmouseover="this.style.backgroundColor='#6D4A94'" 
+    onmouseover="this.style.backgroundColor='#6D4A94'"
     onmouseout="this.style.backgroundColor='#7D5BA6'"
     onfocus="this.style.boxShadow='0 0 0 2px #5C3A82'"
     onblur="this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'"
     onmousedown="this.style.backgroundColor='#5C3A82'"
     onmouseup="this.style.backgroundColor='#7D5BA6'"
     >Download</a>
-
-## Data
-
-| **Author** | Dániel Szabó |
-| :- | :- |
-| **Consultant** | Katalin Friedl |
-| | |
-
-- : 
-- **Type**: TDK 2nd price
-- **Date**: 2017. November 16.
-- **Language**: Hungarian
 
 ## Abstract
 
@@ -54,15 +50,14 @@ References:
 
 [2] Nielsen, M. and Chuang, I. L.. Quantum Computing and Quantum Information (2001). Cambridge University Press, Cambridge.
 
-[3] Wikipedia – D-Wave Systems: https://en.wikipedia.org/wiki/D-Wave_Systems (2017. 09. 20.)
+[3] Wikipedia – D-Wave Systems: [https://en.wikipedia.org/wiki/D-Wave_Systems](https://en.wikipedia.org/wiki/D-Wave_Systems) (2017. 09. 20.)
 
-[4] E. D. Dahl. Programming with D-Wave: Map Coloring Problem (2013): https://www.dwavesys.com/sites/default/files/Map%20Coloring%20WP2.pdf
+[4] E. D. Dahl. Programming with D-Wave: Map Coloring Problem (2013): [](https://www.dwavesys.com/sites/default/files/Map%20Coloring%20WP2.pdf)
 
-[5] Eleanor G. Rieffel, Davide Venturelli, Bryan O'Gorman, Minh B. Do, Elicia Prystay, and Vadim N. Smelyanskiy. A case study in programming a quantum annealer for hard operational planning problems (2014). arXiv:1407.2887v1: https://arxiv.org/pdf/1407.2887.pdf
-
+[5] Eleanor G. Rieffel, Davide Venturelli, Bryan O'Gorman, Minh B. Do, Elicia Prystay, and Vadim N. Smelyanskiy. A case study in programming a quantum annealer for hard operational planning problems (2014). arXiv:1407.2887v1: [https://arxiv.org/pdf/1407.2887.pdf](https://arxiv.org/pdf/1407.2887.pdf)
 
 ![Chimera graph](/assets/thesises/daniel-szabo-2017-11-16-tdk-grafelmeleti-algoritmusok-beagyazasa-dwave-kvantumszamitogepbe.png)
 
 ## Related
 
-https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave
+[https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave](https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave)
