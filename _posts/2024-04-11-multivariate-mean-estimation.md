@@ -8,7 +8,6 @@ categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2024-spring
-published: true
 math: false
 ---
 
