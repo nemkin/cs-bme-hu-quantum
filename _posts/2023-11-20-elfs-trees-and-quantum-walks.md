@@ -2,8 +2,8 @@
 layout: post
 author: nemkin
 title: 'Elfs, trees and quantum walks'
-summary: '2023. november 20., hétfő 12:30 - 13:30, BME I ép. IB134'
-date: 2023-11-12 21:00:00 +0100
+summary: ''
+date: 2023-11-20 12:30:00 +0100
 categories: [Szeminárium, 2023 ősz]
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

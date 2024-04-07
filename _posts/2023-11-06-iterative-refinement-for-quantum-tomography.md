@@ -2,8 +2,8 @@
 layout: post
 author: nemkin
 title: 'Iterative refinement for quantum tomography and quantum linear equation solving'
-summary: '2023. november 6., hétfő 12:15 - 13:15, BME I ép. IB134'
-date: 2023-11-04 03:53:00 +0100
+summary: ''
+date: 2023-11-06 12:15:00 +0100
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
