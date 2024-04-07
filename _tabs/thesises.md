@@ -5,69 +5,16 @@ icon: fa-solid fa-scroll
 order: 5
 ---
 
-## Módszerek közel optimális vágások keresésére
+Thesises related to or done at QuSZIT, in either Hungarian or English.
 
-Szerző: Zalavári Márton  
-Konzulens: Katalin Friedl  
-Típus: Diplomaterv  
-Dátum: 2021. december 18.  
-Nyelv: magyar  
-[Link](https://diplomaterv.vik.bme.hu/hu/Theses/Modszerek-kozel-optimalis-vagasok-keresesere)
-
-## Kvadratikus optimalizálás kvantum alapú számítógéppel
-
-Szerző: Zalavári Márton  
-Konzulens: Katalin Friedl  
-Típus: TDK  
-Dátum: 2021. november 16.  
-Nyelv: magyar  
-[Link](https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu)
-
-## Kvantumséták szimulációja klasszikus számítógépen
-
-Szerző: Nemkin Viktória  
-Konzulens: Katalin Friedl  
-Típus: TDK  
-Dátum: 2021. november 16.  
-Nyelv: angol  
-[Link](https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus)
-
-A dolgozat tartalma a kvantumséták matematikai alapjainak a bevezető szintű leírása, külön figyelmet fordítva az implementációhoz szükséges elemek bemutatására, a valódi kvantumszámítógépen történő megvalósíthatóság feltételeinek részletezése és bizonyítása, továbbá egy nyílt forráskódú, klasszikus és kvantumséták hétköznap számítógépen történő szimulációjára alkalmas Python alapú szoftver bemutatása.
-
-## Kvantuminformatika és gépi tanulás
-
-Szerző: Szabó Dániel  
-Konzulens: Katalin Friedl  
-Típus: Szakdolgozat  
-Dátum: 2018. december 06.  
-Nyelv: magyar  
-[Link](https://diplomaterv.vik.bme.hu/hu/Theses/Kvantuminformatika-es-gepi-tanulas)
-
-## Gépi tanulás és kvantuminformatika
-
-Szerző: Szabó Dániel  
-Konzulens: Katalin Friedl  
-Típus: TDK  
-Dátum: 2018. november 14.  
-Nyelv: magyar  
-[Link](https://tdk.bme.hu/VIK/Szimu1/Gepi-tanulas-es-kvantuminformatika)
-
-## EZ
-
-## Kvantumalgoritmusok véletlen bolyongással
-
-Szerző: Kabódi László  
-Konzulens: Katalin Friedl  
-Típus: Diplomaterv  
-Dátum: 2014. december 29.  
-Nyelv: magyar  
-[Link](https://diplomaterv.vik.bme.hu/hu/Theses/Kvantumalgoritmusok-veletlen-bolyongassal)
-
-## Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata
-
-Szerző: Kabódi László  
-Konzulens: Katalin Friedl  
-Típus: TDK  
-Dátum: 2014. november 11.  
-Nyelv: magyar  
-[Link](https://tdk.bme.hu/VIK/Szimulacio/Kvantumaramkorszimulacios-rendszer)
+- Viktória Nemkin (2022. 12. 18.) MSc Thesis: [Application of quantum computing in Bioinformatics]({{ site.baseurl }}/posts/2022-12-18-application-of-quantum-computing-in-bioinformatics)
+- Viktória Nemkin (2022. 11. 17.) TDK: [Optimizing memory usage in quantum algorithm simulation]({{ site.baseurl }}/posts/2022-11-17-optimizing-memory-usage-in-quantum-algorithm-simulation)
+- Márton Zalavári (2021. 12. 18.) MSc Thesis: [Módszerek közel optimális vágások keresésére]({{ site.baseurl }}/posts/2021-12-18-modszerek-kozel-optimalis-vagasok-keresesere)
+- Márton Zalavári (2021. 11. 16.) TDK: [Kvadratikus optimalizálás kvantum alapú számítógéppel]({{ site.baseurl }}/posts/2021-11-16-kvadratikus-optimalizalas-kvantum-alapu-szamitogeppel)
+- Viktória Nemkin (2021. 11. 16.) TDK: [Simulation of quantum walks on a classical computer]({{ site.baseurl }}/posts/2021-11-16-simulation-of-quantum-walks-on-a-classical-computer)
+- Dániel Szabó (2021. 05. 21.) MSc Thesis: [Függvény és gráftulajdonságok lokális tesztelése]({{ site.baseurl }}/posts/2021-05-21-fuggveny-es-graftulajdonsagok-lokalis-tesztelese)
+- Dániel Szabó (2018. 12. 06.) BSc Thesis: [Kvantuminformatika és gépi tanulás]({{ site.baseurl }}/posts/2018-12-06-kvantuminformatika-es-gepi-tanulas)
+- Dániel Szabó (2018. 11. 14.) TDK: [Gépi tanulás és kvantuminformatika]({{ site.baseurl }}/posts/2018-11-14-gepi-tanulas-es-kvantuminformatika)
+- Dániel Szabó (2017. 11. 16.) TDK: [Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe]({{ site.baseurl }}/posts/2017-11-16-grafelmeleti-algoritmusok-beagyazasa-dwave-kvantumszamitogepbe)
+- László Kabódi (2014. 12. 29.) MSc Thesis: [Kvantumalgoritmusok véletlen bolyongással]({{ site.baseurl }}/posts/2014-12-29-kvantumalgoritmusok-veletlen-bolyongassal)
+- László Kabódi (2014. 11. 11.) TDK: [Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata]({{ site.baseurl }}/posts/2014-11-11-kvantumaramkor-szimulacios-rendszer-gyorsitasanak-vizsgalata)
