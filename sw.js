@@ -1,6 +1,6 @@
 self.importScripts('/cs-bme-hu-quantum/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-1712520725';
+const cacheName = 'chirpy-1712525384';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
