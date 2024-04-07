@@ -18,7 +18,25 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: Kvantumos bonyolultsági osztályok
 - **Előadó**: Csatári Jakab
-- **Diasor**: [Link](https://quszit.github.io/seminar/jakab-csatari-2023-05-19-seminar-kvantum-bonyolultsagelmeleti-szeparacio-relacios-osztalyokra.pdf)
+
+<a
+  href="https://quszit.github.io/seminar/jakab-csatari-2023-05-19-seminar-kvantum-bonyolultsagelmeleti-szeparacio-relacios-osztalyokra.pdf"
+  style="
+    background-color: #7D5BA6;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;"
+    onmouseover="this.style.backgroundColor='#6D4A94'"
+    onmouseout="this.style.backgroundColor='#7D5BA6'"
+    onmousedown="this.style.backgroundColor='#5C3A82'"
+    onmouseup="this.style.backgroundColor='#7D5BA6'"
+    >Diasor</a>
 
 ## Koordináták
 

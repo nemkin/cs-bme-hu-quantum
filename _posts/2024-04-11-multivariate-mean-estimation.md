@@ -18,7 +18,7 @@ The topic of the next session:
 - **Title**: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation
 - **Presenter**:
 - **Language**: Hungarian
-- **Link to paper**: [https://arxiv.org/abs/2111.09787](https://arxiv.org/abs/2111.09787)
+- **Paper**: [https://arxiv.org/abs/2111.09787](https://arxiv.org/abs/2111.09787)
 
 ## Coordinates
 

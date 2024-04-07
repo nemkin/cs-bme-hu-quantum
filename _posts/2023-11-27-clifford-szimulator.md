@@ -19,7 +19,25 @@ A következő kvantumalgoritmusok szeminárium témája:
 
 - **Cím**: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról
 - **Előadó**: [Asbóth János](https://optics.szfki.kfki.hu/~asboth/) (BME Elm. Fiz. Tanszék és Wigner FK)
-- **Diasor**: [Link](https://quszit.github.io/seminar/janos-asboth-2023-11-14-seminar-clifford-szimulator.pdf)
+
+<a
+  href="https://quszit.github.io/seminar/janos-asboth-2023-11-14-seminar-clifford-szimulator.pdf"
+  style="
+    background-color: #7D5BA6;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;"
+    onmouseover="this.style.backgroundColor='#6D4A94'"
+    onmouseout="this.style.backgroundColor='#7D5BA6'"
+    onmousedown="this.style.backgroundColor='#5C3A82'"
+    onmouseup="this.style.backgroundColor='#7D5BA6'"
+    >Diasor</a>
 
 ## Koordináták
 
