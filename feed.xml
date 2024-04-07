@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Quantum algorithms at BME VIK SZIT.</subtitle>
-  <updated>2024-04-07T21:31:10+02:00</updated>
+  <updated>2024-04-07T21:33:21+02:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -17,6 +17,32 @@
   <icon>/cs-bme-hu-quantum/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-quantum/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Near-Optimal Quantum Algorithms for Multivariate Mean Estimation</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-04-11-multivariate-mean-estimation/" rel="alternate" type="text/html" title="Near-Optimal Quantum Algorithms for Multivariate Mean Estimation" />
+    <published>2024-04-11T16:15:00+02:00</published>
+  
+    <updated>2024-04-11T16:15:00+02:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2024-04-11-multivariate-mean-estimation/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-04-11-multivariate-mean-estimation/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Seminar" />
+    
+  
+
+  
+    <summary>2024 April 11, Thursday 16:15 | BME Building I, IB134</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -118,32 +144,6 @@
 
   
     <summary>2023. november 27., hétfő 12:30 - 13:30, BME I ép. IB134</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Elfs, trees and quantum walks</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-12-elfs-trees-and-quantum-walks/" rel="alternate" type="text/html" title="Elfs, trees and quantum walks" />
-    <published>2023-11-12T21:00:00+01:00</published>
-  
-    <updated>2023-11-12T21:00:00+01:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-12-elfs-trees-and-quantum-walks/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-12-elfs-trees-and-quantum-walks/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Seminar" />
-    
-  
-
-  
-    <summary>2023. november 20., hétfő 12:30 - 13:30, BME I ép. IB134</summary>
   
 
   </entry>
