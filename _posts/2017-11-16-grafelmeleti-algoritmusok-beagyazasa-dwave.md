@@ -18,31 +18,26 @@ hidden: true
 | **Type** | TDK (2nd prize) |
 | **Date** | 2017. November 16. |
 | **Language** | Hungarian |
-
-[https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave](https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave)
+| **Reference** | [https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave](https://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave) |
 
 <a
   href="https://quszit.github.io/thesises/daniel-szabo-2017-11-16-tdk-grafelmeleti-algoritmusok-beagyazasa-dwave-kvantumszamitogepbe.pdf"
-  download
   style="
-    padding: 10px 20px;
     background-color: #7D5BA6;
+    padding: 10px 20px;
     border: none;
-    outline: none;
     border-radius: 5px;
+    outline: none;
     color: white;
     font-size: 16px;
-    cursor: pointer;
     text-decoration: none;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
     transition: background-color 0.3s ease;"
     onmouseover="this.style.backgroundColor='#6D4A94'"
     onmouseout="this.style.backgroundColor='#7D5BA6'"
-    onfocus="this.style.boxShadow='0 0 0 2px #5C3A82'"
-    onblur="this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'"
     onmousedown="this.style.backgroundColor='#5C3A82'"
     onmouseup="this.style.backgroundColor='#7D5BA6'"
-    >View</a>
+    >Open</a>
 
 ## Abstract
 
