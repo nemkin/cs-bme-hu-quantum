@@ -15,7 +15,7 @@ hidden: true
 | **Author** | Viktória Nemkin |
 | :- | :- |
 | **Consultant** | Katalin Friedl |
-| **Type** | TDK (1st place) |
+| **Type** | TDK (1st prize) |
 | **Date** | 2022. November 17. |
 | **Language** | English |
 | **Reference** | [https://tdk.bme.hu/VIK/sw9/Memoriafelhasznalas-optimalizalasa](https://tdk.bme.hu/VIK/sw9/Memoriafelhasznalas-optimalizalasa) |
