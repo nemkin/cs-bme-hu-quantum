@@ -10,6 +10,7 @@ keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-fall
 math: false
+hidden: true
 ---
 
 A következő kvantumalgoritmusok szeminárium témája:

@@ -9,6 +9,7 @@ keywords: seminar, quantum, quantum algorithms, quantum computing
 tags:
  - seminar-2023-fall
 math: false
+hidden: true
 ---
 
 2023\. őszén folytatódik a **Kvantumalgoritmusok** szeminárium, melyen a kvantuminformatika különböző területeivel kapcsolatos előadásokat hallgathattok meglévő eredményekről és folyamatban lévő kutatásokról diákok és kutatók előadásában.
