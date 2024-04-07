@@ -42,7 +42,7 @@ hidden: true
     onblur="this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'"
     onmousedown="this.style.backgroundColor='#5C3A82'"
     onmouseup="this.style.backgroundColor='#7D5BA6'"
-    >Download</a>
+    >View</a>
 
 ## Abstract
 
