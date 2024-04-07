@@ -4,10 +4,10 @@ author: nemkin
 title: 'Módszerek közel optimális vágások keresésére'
 summary: 'Szerző: Zalavári Márton'
 date: 2021-12-18 19:00:00 +0100
-categories: [TDK]
+categories: [MSc thesis]
 keywords: tdk, quantum, quantum algorithms, quantum computing
 tags:
- - tdk-2021
+ - msc-thesis-2021
 math: false
 hidden: true
 ---
