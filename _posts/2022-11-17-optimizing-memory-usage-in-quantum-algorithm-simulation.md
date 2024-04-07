@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: 'Simulation of quantum walks on a classical computer'
+title: 'Optimizing memory usage in quantum algorithm simulation'
 summary: 'Author: Viktória Nemkin'
 date: 2022-11-17 08:00:00 +0100
 categories: [TDK]
