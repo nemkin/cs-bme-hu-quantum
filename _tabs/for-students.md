@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: For students
 icon: fa-solid fa-graduation-cap
 math: true
 order: 4
