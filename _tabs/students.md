@@ -9,6 +9,10 @@ order: 4
 > We warmly welcome all students participating in BSc and MSc programs, whether from BME or another institution, to prepare their thesis, diploma project, or TDK (Scientific Students' Associations Conference) paper related to quantum algorithms.
 {: .prompt-tip }
 
+## Previous work
+
+Check out previous students' work [here]({{ site.baseurl }}/thesises).
+
 ## Project proposals
 
 ### Quantum algorithms
