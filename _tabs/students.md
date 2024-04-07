@@ -17,7 +17,7 @@ Check out previous students' work [here]({{ site.baseurl }}/thesises).
 
 ### Quantum algorithms
 
-[Link](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=100066)
+[https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=100066](https://doktori.hu/index.php?menuid=195&lang=HU&tk_ID=100066)
 
 In the late 1970s, physicists proposed that since quantum mechanical phenomena could not be efficiently simulated with computers, perhaps a machine that also builds on quantum effects could solve certain problems faster. This idea gave birth to a new mathematical model of computation, the quantum Turing machine.
 
