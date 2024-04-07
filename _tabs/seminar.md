@@ -20,7 +20,7 @@ Coordinator: [Viktória Nemkin](https://cs.bme.hu/~nemkin)
 
 ### Spring 2024
 
-- 2024-03-21: [Unitary Complexity and the Uhlmann Transformation Problem]({{ site.baseurl }}/posts/2024-03-17-qip-2024)
+- 2024-03-21: [Unitary Complexity and the Uhlmann Transformation Problem]({{ site.baseurl }}/posts/2024-03-21-qip-2024)
 
 ### Autumn 2023
 
