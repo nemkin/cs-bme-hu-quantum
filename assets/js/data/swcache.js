@@ -15,7 +15,7 @@ const resource = [
   
     '/cs-bme-hu-quantum/getting-started/',
   
-    '/cs-bme-hu-quantum/students/',
+    '/cs-bme-hu-quantum/for-students/',
   
     '/cs-bme-hu-quantum/thesises/',
   
