@@ -22,7 +22,7 @@ Coordinator: [Viktória Nemkin](https://cs.bme.hu/~nemkin)
 
 - 2024-03-21: [Unitary Complexity and the Uhlmann Transformation Problem]({{ site.baseurl }}/posts/2024-03-21-qip-2024)
 
-### Autumn 2023
+### Fall 2023
 
 - 2023-12-04: [Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával]({{ site.baseurl }}/posts/2023-12-04-majorana-szimulator)
 - 2023-11-27: [Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról]({{ site.baseurl }}/posts/2023-11-27-clifford-szimulator)
