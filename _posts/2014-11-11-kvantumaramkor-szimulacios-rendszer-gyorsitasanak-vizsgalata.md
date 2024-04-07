@@ -3,7 +3,7 @@ layout: post
 author: nemkin
 title: 'Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata'
 summary: 'Szerző: Kabódi László'
-date: 2017-11-16 08:00:00 +0100
+date: 2014-11-11 08:00:00 +0100
 categories: [TDK]
 keywords: tdk, quantum, quantum algorithms, quantum computing
 tags:

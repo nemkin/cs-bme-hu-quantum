@@ -21,7 +21,7 @@ hidden: true
 | **Referencia** | [https://diplomaterv.vik.bme.hu/hu/Theses/Modszerek-kozel-optimalis-vagasok-keresesere](https://diplomaterv.vik.bme.hu/hu/Theses/Modszerek-kozel-optimalis-vagasok-keresesere) |
 
 <a
-  href="https://quszit.github.io/thesises/marton-zalavari-2021-11-16-tdk-kvadratikus-optimalizalas-kvantum-alapu-szamitogeppel.pdf"
+  href="https://quszit.github.io/thesises/marton-zalavari-2021-12-18-msc-thesis-modszerek-kozel-optimalis-vagasok-keresesere.pdf"
   style="
     background-color: #7D5BA6;
     padding: 10px 20px;

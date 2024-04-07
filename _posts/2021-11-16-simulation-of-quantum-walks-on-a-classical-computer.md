@@ -21,7 +21,7 @@ hidden: true
 | **Reference** | [https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus](https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus) |
 
 <a
-  href="https://quszit.github.io/thesises/viktoria-nemkin-2022-11-17-tdk-optimizing-memory-usage-in-quantum-algorithm-simulation.pdf"
+  href="https://quszit.github.io/thesises/viktoria-nemkin-2021-11-16-tdk-simulation-of-quantum-walks-on-a-classical-computer.pdf"
   style="
     background-color: #7D5BA6;
     padding: 10px 20px;
@@ -41,8 +41,12 @@ hidden: true
 
 ## Abstract
 
-The quantum algorithm execution frameworks currently available on the market (IBM Qiskit, Google Cirq) implement their computations using unitary matrices of exponential size in the number of qubits. Consequently, they require large amounts of memory, even for small inputs. Although existing frameworks use some optimization methods, these often cannot provide improvements of an order of magnitude (e.g. sparse matrix storage mode) or are only applicable in special cases (Clifford gates). In practice, in contrast to a large company, the average user cannot experiment within reasonable limits, for many algorithms, even with relatively small inputs, as this would incur outstanding hardware costs.
+In recent years, there has been an increasing focus on quantum informatics. Influential global companies such as IBM, Google, Microsoft, and Amazon have invested significant amounts into studying and developing hardware and software for this sector, while the European Union and Hungary have launched several programs to accelerate quantum research.
 
-Algorithms that save memory in exchange for increased runtime can reduce these hardware expenses. For example, any submatrix of the unitary matrix can be computed on-the-fly during runtime, or the equivalent conventional algorithm can replace the unitary matrix operation. Although the currently available frameworks are open-source, they store the unitary matrices in memory as an integral part of their architecture, making it impossible to incorporate these memory optimization techniques.
+Current technology is yet to produce a significant number of qubits (quantum bits) in a quantum processor, but many believe the amount will increase over the years. The first practical quantum algorithms to be run on these processors are likely to be the ones that use qubits sparingly. Quantum walking, the generalized version of classical random walking, is exactly this kind of algorithm. The number of qubits required to run a quantum walk on a graph is logarithmic in the number of vertices, making it a promising technique for the near future. Furthermore, Grover's search algorithm (a basis for many quantum algorithms) can be viewed as a special case of quantum walks, which illustrates the potential power of this method.
 
-In my paper, I focus on developing these memory optimization methodologies and implementing them in a general-purpose quantum algorithm simulation framework. I present the classical algorithm and architecture design steps that form the basis of the system and demonstrate how this system can be used in quantum algorithm research. The framework is primarily intended to be used in a resource-constrained environment to enable running tests on a larger number of qubits, thus facilitating theoretical research. Accordingly, I will make the system and its documentation available to everyone in an open-source licensed form.
+In my dissertation, I present the mathematical framework for quantum walks, detailing the points critical for implementation, which are given less emphasis in the literature. I describe the architecture and capabilities of the simulator program I have written and the conclusions of the simulations I have run.
+
+I developed the software using Python 3, based on the Strategy design pattern. It supports graphs commonly found in the literature while also providing a method for combining them, facilitating experimentation on several kinds of regular graphs. This composition is also the foundation of the quantum walk. It can simulate classical and quantum walks on the same graphs and produce a report file detailing the results. In the quantum case, the characteristics of the walk are also dependent on the type of coin used to generate the probabilities, which can be defined in several ways. The program includes the Hadamard, Grover, and Fourier coins and can easily be extended with others.
+
+Running several simulations, I compared the behavior of classical and quantum walks and demonstrated the quantum characteristics expected from the theoretical literature, the ballistic nature of the Hadamard walk, and the cyclic property of quantum walks.
