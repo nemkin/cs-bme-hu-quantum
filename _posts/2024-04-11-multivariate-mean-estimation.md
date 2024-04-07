@@ -16,7 +16,7 @@ The topic of the next session:
 ## Topic
 
 - **Title**: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation
-- **Presenter**:
+- **Presenter**: Jakab Csatári
 - **Language**: Hungarian
 - **Paper**: [https://arxiv.org/abs/2111.09787](https://arxiv.org/abs/2111.09787)
 
