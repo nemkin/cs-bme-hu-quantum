@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció'
-summary: ''
+summary: 'Előadó: Gilyén András'
 date: 2023-04-14 10:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

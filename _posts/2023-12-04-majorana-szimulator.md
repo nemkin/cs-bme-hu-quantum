@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával'
-summary: ''
+summary: 'Előadó: Márton Áron'
 date: 2023-12-04 12:30:00 +0100
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
@@ -16,7 +16,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával
-- **Előadó**: [Márton Áron](https://tdk.bme.hu/Browse/Users/Marton-Aron)
+- **Előadó**: Márton Áron
 - **Diasor**: [Link](https://quszit.github.io/seminar/aron-marton-2023-11-14-seminar-efficient-simulation-of-quantum-circuits-with-fermionic-linear-optics.pdf)
 
 ## Koordináták

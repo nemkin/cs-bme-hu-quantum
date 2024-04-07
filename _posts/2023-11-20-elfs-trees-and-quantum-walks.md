@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Elfs, trees and quantum walks'
-summary: ''
+summary: 'Előadó: Pituk Sára'
 date: 2023-11-20 12:30:00 +0100
 categories: [Szeminárium, 2023 ősz]
 categories: [Seminar]
@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Elfs, trees and quantum walks
-- **Előadó**: [Pituk Sára](https://doktori.hu/index.php?menuid=192&lang=HU&sz_ID=44941)
+- **Előadó**: Pituk Sára
 
 ## Koordináták
 

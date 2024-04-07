@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe'
-summary: ''
+summary: 'Author: Dániel Szabó'
 date: 2017-11-16 08:00:00 +0100
 categories: [TDK]
 keywords: tdk, quantum, quantum algorithms, quantum computing

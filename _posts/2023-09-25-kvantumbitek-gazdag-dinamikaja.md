@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Kvantumbitek gazdag dinamikája'
-summary: ''
+summary: 'Előadó: Kiss Tamás'
 date: 2023-09-25 12:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

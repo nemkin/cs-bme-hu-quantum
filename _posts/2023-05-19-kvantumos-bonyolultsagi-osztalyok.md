@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Kvantumos bonyolultsági osztályok'
-summary: ''
+summary: 'Előadó: Csatári Jakab'
 date: 2023-05-19 10:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Kvantumos bonyolultsági osztályok
-- **Előadó**: [Csatári Jakab](https://math-projects.elte.hu/projects/student/276/)
+- **Előadó**: Csatári Jakab
 - **Diasor**: [Link](https://quszit.github.io/seminar/jakab-csatari-2023-05-19-seminar-kvantum-bonyolultsagelmeleti-szeparacio-relacios-osztalyokra.pdf)
 
 ## Koordináták

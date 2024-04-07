@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'External: Quantum Thermal State Preparation'
-summary: ''
+title: 'Külsős alkalom: Quantum Thermal State Preparation'
+summary: 'Előadó: Gilyén András'
 date: 2023-05-12 10:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

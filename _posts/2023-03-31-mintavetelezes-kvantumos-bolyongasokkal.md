@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Mintavételezés kvantumos bolyongásokkal'
-summary: ''
+summary: 'Előadó: Pituk Sára'
 date: 2023-03-31 10:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Mintavételezés kvantumos bolyongásokkal
-- **Előadó**: [Pituk Sára](https://doktori.hu/index.php?menuid=192&lang=HU&sz_ID=44941)
+- **Előadó**: Pituk Sára
 
 ## Koordináták
 

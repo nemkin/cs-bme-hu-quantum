@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Iterative refinement for quantum tomography and quantum linear equation solving'
-summary: ''
+summary: 'Előadó: Gilyén András'
 date: 2023-11-06 12:15:00 +0100
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

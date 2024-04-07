@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Összefonódás és ami mögötte van'
-summary: ''
+summary: 'Előadó: Galambos Máté'
 date: 2023-04-28 10:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
@@ -17,7 +17,7 @@ A következő kvantumalgoritmusok szeminárium témája:
 ## Téma
 
 - **Cím**: Összefonódás és ami mögötte van
-- **Előadó**: [Galambos Máté](https://competence.bme.hu/researchers/241-mate-galambos/)
+- **Előadó**: Galambos Máté
 
 ## Koordináták
 

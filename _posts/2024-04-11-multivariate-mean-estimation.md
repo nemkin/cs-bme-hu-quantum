@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Near-Optimal Quantum Algorithms for Multivariate Mean Estimation'
-summary: ''
+summary: 'Presenter: Jakab Csatári'
 date: 2024-04-11 16:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing
@@ -16,8 +16,8 @@ The topic of the next session:
 ## Topic
 
 - **Title**: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation
-- **Presenter**: [Jakab Csatári](https://math-projects.elte.hu/projects/student/276/)
-- **Language**: Hungarian (?)
+- **Presenter**:
+- **Language**: Hungarian
 - **Link to paper**: [https://arxiv.org/abs/2111.09787](https://arxiv.org/abs/2111.09787)
 
 ## Coordinates

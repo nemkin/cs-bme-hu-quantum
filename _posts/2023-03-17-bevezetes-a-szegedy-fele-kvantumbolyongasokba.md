@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Bevezetés a Szegedy-féle kvantumbolyongásokba'
-summary: ''
+summary: 'Előadó: Gilyén András'
 date: 2023-03-17 10:15:00 +0100
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

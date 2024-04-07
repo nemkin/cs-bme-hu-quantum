@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Kvantumalgoritmusok az izogénia-alapú kriptográfiában'
-summary: ''
+summary: 'Előadó: Kutas Péter'
 date: 2023-05-26 10:15:00 +0200
 categories: [Seminar]
 keywords: seminar, quantum, quantum algorithms, quantum computing

@@ -2,7 +2,7 @@
 layout: post
 author: nemkin
 title: 'Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról'
-summary: ''
+summary: 'Előadó: Asbóth János'
 date: 2023-11-27 12:30:00 +0100
 categories: [Szeminárium, 2023 ősz]
 categories: [Seminar]
