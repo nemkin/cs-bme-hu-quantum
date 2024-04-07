@@ -19,10 +19,10 @@
   
   {
     "title": "Unitary Complexity and the Uhlmann Transformation Problem",
-    "url": "/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/",
+    "url": "/cs-bme-hu-quantum/posts/2024-03-21-qip-2024/",
     "categories": "Seminar",
     "tags": "seminar-2024-spring",
-    "date": "2024-03-17 21:00:00 +0100",
+    "date": "2024-03-21 16:15:00 +0100",
     
 
 
@@ -35,28 +35,11 @@
   },
   
   {
-    "title": "Szeminárium téli szünet",
-    "url": "/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/",
-    "categories": "Seminar",
-    "tags": "seminar-2023-fall",
-    "date": "2023-12-04 23:25:00 +0100",
-    
-
-
-
-
-
-    
-    "snippet": "A félévnek vége, köszönjük a sok hasznos és érdekes előadást az idei előadóinknak és a lelkes részvételt a hallgatóságnak! :)A szeminárium télen szünetel, februárban újra folytatjuk az előadásokat....",
-    "content": "A félévnek vége, köszönjük a sok hasznos és érdekes előadást az idei előadóinknak és a lelkes részvételt a hallgatóságnak! :)A szeminárium télen szünetel, februárban újra folytatjuk az előadásokat.Kérlek terjesszétek kollégáitok és diákjaitok között a szemináriumot, előadóként és hallgatóságként is szeretettel várunk titeket jövőre!Addig pedig boldog karácsonyt és új évet kívánunk!"
-  },
-  
-  {
     "title": "Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával",
-    "url": "/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/",
+    "url": "/cs-bme-hu-quantum/posts/2023-12-04-majorana-szimulator/",
     "categories": "Seminar",
     "tags": "seminar-2023-fall",
-    "date": "2023-11-14 18:00:00 +0100",
+    "date": "2023-12-04 12:30:00 +0100",
     
 
 
@@ -70,10 +53,10 @@
   
   {
     "title": "Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról",
-    "url": "/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/",
+    "url": "/cs-bme-hu-quantum/posts/2023-11-27-clifford-szimulator/",
     "categories": "Seminar",
     "tags": "seminar-2023-fall",
-    "date": "2023-11-14 18:00:00 +0100",
+    "date": "2023-11-27 12:30:00 +0100",
     
 
 
@@ -87,10 +70,10 @@
   
   {
     "title": "Elfs, trees and quantum walks",
-    "url": "/cs-bme-hu-quantum/posts/2023-11-12-elfs-trees-and-quantum-walks/",
+    "url": "/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/",
     "categories": "Seminar",
     "tags": "seminar-2023-fall",
-    "date": "2023-11-12 21:00:00 +0100",
+    "date": "2023-11-20 12:30:00 +0100",
     
 
 
@@ -104,10 +87,10 @@
   
   {
     "title": "Iterative refinement for quantum tomography and quantum linear equation solving",
-    "url": "/cs-bme-hu-quantum/posts/2023-11-04-iterative-refinement-for-quantum-tomography/",
+    "url": "/cs-bme-hu-quantum/posts/2023-11-06-iterative-refinement-for-quantum-tomography/",
     "categories": "Seminar",
     "tags": "seminar-2023-fall",
-    "date": "2023-11-04 03:53:00 +0100",
+    "date": "2023-11-06 12:15:00 +0100",
     
 
 
@@ -121,10 +104,10 @@
   
   {
     "title": "Kvantumbitek gazdag dinamikája",
-    "url": "/cs-bme-hu-quantum/posts/2023-09-18-kvantumbitek-gazdag-dinamikaja/",
+    "url": "/cs-bme-hu-quantum/posts/2023-09-25-kvantumbitek-gazdag-dinamikaja/",
     "categories": "Seminar",
     "tags": "seminar-2023-fall",
-    "date": "2023-09-18 01:31:00 +0200",
+    "date": "2023-09-25 12:15:00 +0200",
     
 
 
@@ -138,10 +121,10 @@
   
   {
     "title": "Kvantumalgoritmusok az izogénia-alapú kriptográfiában",
-    "url": "/cs-bme-hu-quantum/posts/2023-05-23-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/",
+    "url": "/cs-bme-hu-quantum/posts/2023-05-26-kvantumalgoritmusok-az-izogenia-alapu-kriptografiaban/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-05-23 14:23:00 +0200",
+    "date": "2023-05-26 10:15:00 +0200",
     
 
 
@@ -155,10 +138,10 @@
   
   {
     "title": "Kvantumos bonyolultsági osztályok",
-    "url": "/cs-bme-hu-quantum/posts/2023-05-15-kvantumos-bonyolultsagi-osztalyok/",
+    "url": "/cs-bme-hu-quantum/posts/2023-05-19-kvantumos-bonyolultsagi-osztalyok/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-05-15 22:37:00 +0200",
+    "date": "2023-05-19 10:15:00 +0200",
     
 
 
@@ -171,11 +154,11 @@
   },
   
   {
-    "title": "Külsős Quantum Thermal State Preparation",
-    "url": "/cs-bme-hu-quantum/posts/2023-05-09-quantum-thermal-state-preparation/",
+    "title": "External: Quantum Thermal State Preparation",
+    "url": "/cs-bme-hu-quantum/posts/2023-05-12-quantum-thermal-state-preparation/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-05-09 17:25:00 +0200",
+    "date": "2023-05-12 10:15:00 +0200",
     
 
 
@@ -189,10 +172,10 @@
   
   {
     "title": "Összefonódás és ami mögötte van",
-    "url": "/cs-bme-hu-quantum/posts/2023-04-24-osszefonodas-es-ami-mogotte-van/",
+    "url": "/cs-bme-hu-quantum/posts/2023-04-28-osszefonodas-es-ami-mogotte-van/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-04-24 23:08:00 +0200",
+    "date": "2023-04-28 10:15:00 +0200",
     
 
 
@@ -206,10 +189,10 @@
   
   {
     "title": "Kvantumos jelfeldolgozás és szingulárisérték transzformáció",
-    "url": "/cs-bme-hu-quantum/posts/2023-04-16-kvantumos-jelfeldolgozas-es-szingularisertek-transzformacio/",
+    "url": "/cs-bme-hu-quantum/posts/2023-04-21-kvantumos-jelfeldolgozas-es-szingularisertek-transzformacio/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-04-16 22:57:00 +0200",
+    "date": "2023-04-21 10:15:00 +0200",
     
 
 
@@ -223,10 +206,10 @@
   
   {
     "title": "A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció",
-    "url": "/cs-bme-hu-quantum/posts/2023-04-11-kvantumos-szingularisertek-transzformacio/",
+    "url": "/cs-bme-hu-quantum/posts/2023-04-14-kvantumos-szingularisertek-transzformacio/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-04-11 01:03:00 +0200",
+    "date": "2023-04-14 10:15:00 +0200",
     
 
 
@@ -240,10 +223,10 @@
   
   {
     "title": "Mintavételezés kvantumos bolyongásokkal",
-    "url": "/cs-bme-hu-quantum/posts/2023-03-28-mintavetelezes-kvantumos-bolyongasokkal/",
+    "url": "/cs-bme-hu-quantum/posts/2023-03-31-mintavetelezes-kvantumos-bolyongasokkal/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-03-28 13:17:00 +0200",
+    "date": "2023-03-31 10:15:00 +0200",
     
 
 
@@ -257,10 +240,10 @@
   
   {
     "title": "Bevezetés a Szegedy-féle kvantumbolyongásokba",
-    "url": "/cs-bme-hu-quantum/posts/2023-03-13-bevezetes-a-szegedy-fele-kvantumbolyongasokba/",
+    "url": "/cs-bme-hu-quantum/posts/2023-03-17-bevezetes-a-szegedy-fele-kvantumbolyongasokba/",
     "categories": "Seminar",
     "tags": "seminar-2023-spring",
-    "date": "2023-03-13 22:42:00 +0100",
+    "date": "2023-03-17 10:15:00 +0100",
     
 
 
