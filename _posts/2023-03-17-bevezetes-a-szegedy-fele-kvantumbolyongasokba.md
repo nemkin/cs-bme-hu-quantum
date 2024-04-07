@@ -24,7 +24,7 @@ Az első alkalom témája:
 - **Előadó**: [Gilyén András](http://gilyen.hu/)
 
 <a
-  href="https://quszit.github.io/seminar/andras-gilyen-2023-03-17-seminar-quantum_walks.pdf"
+  href="https://quszit.github.io/seminar/andras-gilyen-2023-03-17-seminar-quantum-walks.pdf"
   style="
     background-color: #7D5BA6;
     padding: 10px 20px;
