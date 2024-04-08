@@ -1,6 +1,6 @@
 title: QuSZIT
-tagline: Kvantumalgoritmusok a BME VIK SZIT-en.
-description: Kvantumalgoritmusok a BME VIK SZIT-en.
+tagline: Quantum algorithms at BME VIK SZIT.
+description: Quantum algorithms at BME VIK SZIT.
 avatar: /assets/img/schrodingers-purple.png
 
 github:
@@ -13,7 +13,7 @@ social:
     - https://cs.bme.hu/quantum
     - https://github.com/quszit
 
-lang: hu-HU
+lang: en
 timezone: Europe/Budapest
 
 remote_theme: nemkin/jekyll-theme-chirpy
@@ -22,7 +22,7 @@ theme_mode: light
 toc: true
 paginate: 10
 pwa:
-  enabled: true
+  enabled: false
 future: true
 
 plugins:
