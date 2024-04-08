@@ -3,14 +3,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
-  <subtitle>Kvantumalgoritmusok a BME VIK SZIT-en.</subtitle>
-  <updated>2024-04-08T15:45:12+02:00</updated>
+  <subtitle>Quantum algorithms at BME VIK SZIT.</subtitle>
+  <updated>2024-04-08T17:08:52+02:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="https://quszit.github.io/cs-bme-hu-quantum/feed.xml"/>
-  <link rel="alternate" type="text/html" hreflang="hu-HU"
+  <link rel="alternate" type="text/html" hreflang="en"
     href="https://quszit.github.io/cs-bme-hu-quantum/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 QuSZIT </rights>
@@ -46,14 +46,14 @@
 
   
   <entry>
-    <title>Seminar: Unitary Complexity and the Uhlmann Transformation Problem</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/" rel="alternate" type="text/html" title="Seminar: Unitary Complexity and the Uhlmann Transformation Problem" />
-    <published>2024-03-17T21:00:00+01:00</published>
+    <title>Unitary Complexity and the Uhlmann Transformation Problem</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-21-qip-2024/" rel="alternate" type="text/html" title="Unitary Complexity and the Uhlmann Transformation Problem" />
+    <published>2024-03-21T16:15:00+01:00</published>
   
-    <updated>2024-03-17T21:00:00+01:00</updated>
+    <updated>2024-03-21T16:15:00+01:00</updated>
   
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-17-qip-2024/" />
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-21-qip-2024/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-03-21-qip-2024/" />
     <author>
       <name>nemkin</name>
     </author>
@@ -62,96 +62,88 @@
     
     <category term="Seminar" />
     
-    <category term="2024 spring" />
-    
   
 
   
-    <summary>2024 March 21, Thursday 16:15 | BME Building I, IB134</summary>
+    <summary>Presenter: Tony Metger on video at QIP 2024</summary>
   
 
   </entry>
 
   
   <entry>
-    <title>Szeminárium: Téli szünet</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/" rel="alternate" type="text/html" title="Szeminárium: Téli szünet" />
-    <published>2023-12-04T23:25:00+01:00</published>
+    <title>Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-majorana-szimulator/" rel="alternate" type="text/html" title="Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával" />
+    <published>2023-12-04T12:30:00+01:00</published>
   
-    <updated>2023-12-04T23:25:00+01:00</updated>
+    <updated>2023-12-04T12:30:00+01:00</updated>
   
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-szeminarium-szunet/" />
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-majorana-szimulator/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-12-04-majorana-szimulator/" />
     <author>
       <name>nemkin</name>
     </author>
 
   
     
-    <category term="Szeminárium" />
-    
-    <category term="2023 tavasz" />
+    <category term="Seminar" />
     
   
 
   
-    <summary>Februárban találkozunk!</summary>
+    <summary>Előadó: Márton Áron</summary>
   
 
   </entry>
 
   
   <entry>
-    <title>Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával" />
-    <published>2023-11-14T18:00:00+01:00</published>
+    <title>Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-27-clifford-szimulator/" rel="alternate" type="text/html" title="Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról" />
+    <published>2023-11-27T12:30:00+01:00</published>
   
-    <updated>2023-11-14T18:00:00+01:00</updated>
+    <updated>2023-11-27T12:30:00+01:00</updated>
   
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-majorana-szimulator/" />
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-27-clifford-szimulator/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-27-clifford-szimulator/" />
     <author>
       <name>nemkin</name>
     </author>
 
   
     
-    <category term="Szeminárium" />
-    
-    <category term="2023 ősz" />
+    <category term="Seminar" />
     
   
 
   
-    <summary>2023. december 4., hétfő 12:30 - 13:30, BME I ép. IB134</summary>
+    <summary>Előadó: Asbóth János</summary>
   
 
   </entry>
 
   
   <entry>
-    <title>Szeminárium: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/" rel="alternate" type="text/html" title="Szeminárium: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról" />
-    <published>2023-11-14T18:00:00+01:00</published>
+    <title>Elfs, trees and quantum walks</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/" rel="alternate" type="text/html" title="Elfs, trees and quantum walks" />
+    <published>2023-11-20T12:30:00+01:00</published>
   
-    <updated>2023-11-14T18:00:00+01:00</updated>
+    <updated>2023-11-20T12:30:00+01:00</updated>
   
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-14-clifford-szimulator/" />
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/" />
     <author>
       <name>nemkin</name>
     </author>
 
   
     
-    <category term="Szeminárium" />
-    
-    <category term="2023 ősz" />
+    <category term="Seminar" />
     
   
 
   
-    <summary>2023. november 27., hétfő 12:30 - 13:30, BME I ép. IB134</summary>
+    <summary>Előadó: Pituk Sára</summary>
   
 
   </entry>
