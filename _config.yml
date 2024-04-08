@@ -23,6 +23,7 @@ toc: true
 paginate: 10
 pwa:
   enabled: true
+future: true
 
 plugins:
   - jekyll-remote-theme
