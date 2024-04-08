@@ -11,15 +11,17 @@ const resource = [
   '/cs-bme-hu-quantum/404.html',
 
   
-    '/cs-bme-hu-quantum/seminar/',
+    '/cs-bme-hu-quantum/szeminarium/',
   
-    '/cs-bme-hu-quantum/getting-started/',
+    '/cs-bme-hu-quantum/bevezeto/',
   
-    '/cs-bme-hu-quantum/for-students/',
+    '/cs-bme-hu-quantum/irodalom/',
   
-    '/cs-bme-hu-quantum/thesises/',
+    '/cs-bme-hu-quantum/hallgatoknak/',
   
-    '/cs-bme-hu-quantum/publications/',
+    '/cs-bme-hu-quantum/dolgozatok/',
+  
+    '/cs-bme-hu-quantum/publikaciok/',
   
     '/cs-bme-hu-quantum/categories/',
   
@@ -27,9 +29,9 @@ const resource = [
   
     '/cs-bme-hu-quantum/archives/',
   
-    '/cs-bme-hu-quantum/mailing-list/',
+    '/cs-bme-hu-quantum/levelezolista/',
   
-    '/cs-bme-hu-quantum/contact/',
+    '/cs-bme-hu-quantum/kapcsolat/',
   
 
   /* --- Favicons & compressed JS --- */
