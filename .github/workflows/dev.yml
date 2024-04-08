@@ -50,6 +50,13 @@ jobs:
         env:
           JEKYLL_ENV: "development"
 
+      - name: Test site
+        run: |
+          bundle exec htmlproofer _site \
+            \-\-disable-external=true \
+            \-\-enforce_https=false \
+            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+
       - name: Deploy to dev branch
         uses: peaceiris/actions-gh-pages@v3
         with:
@@ -64,13 +71,6 @@ jobs:
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
-      - name: Test site
-        run: |
-          bundle exec htmlproofer _site \
-            \-\-disable-external=true \
-            \-\-enforce_https=false \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
-
   deploy:
     environment:
       name: github-pages
@@ -81,3 +81,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
