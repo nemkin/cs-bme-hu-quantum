@@ -4,7 +4,7 @@
   <id>https://quszit.github.io/cs-bme-hu-quantum/</id>
   <title>QuSZIT</title>
   <subtitle>Quantum algorithms at BME VIK SZIT.</subtitle>
-  <updated>2024-04-08T17:08:52+02:00</updated>
+  <updated>2024-05-07T12:46:29+02:00</updated>
   <author>
     <name>QuSZIT</name>
     <uri>https://quszit.github.io/cs-bme-hu-quantum/</uri>
@@ -17,6 +17,32 @@
   <icon>/cs-bme-hu-quantum/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-quantum/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Quantum cryptanalysis of isogeny-based cryptography</title>
+    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-05-16-quantum-cryptanalysis-of-isogeny-based-cryptography/" rel="alternate" type="text/html" title="Quantum cryptanalysis of isogeny-based cryptography" />
+    <published>2024-05-16T16:15:00+02:00</published>
+  
+    <updated>2024-05-16T16:15:00+02:00</updated>
+  
+    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2024-05-16-quantum-cryptanalysis-of-isogeny-based-cryptography/</id>
+    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2024-05-16-quantum-cryptanalysis-of-isogeny-based-cryptography/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="Seminar" />
+    
+  
+
+  
+    <summary>Presenter: Péter Kutas</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -118,32 +144,6 @@
 
   
     <summary>Előadó: Asbóth János</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Elfs, trees and quantum walks</title>
-    <link href="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/" rel="alternate" type="text/html" title="Elfs, trees and quantum walks" />
-    <published>2023-11-20T12:30:00+01:00</published>
-  
-    <updated>2023-11-20T12:30:00+01:00</updated>
-  
-    <id>https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/</id>
-    <content src="https://quszit.github.io/cs-bme-hu-quantum/posts/2023-11-20-elfs-trees-and-quantum-walks/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="Seminar" />
-    
-  
-
-  
-    <summary>Előadó: Pituk Sára</summary>
   
 
   </entry>
