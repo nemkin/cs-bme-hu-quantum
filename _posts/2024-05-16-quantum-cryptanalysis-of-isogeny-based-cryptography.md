@@ -16,7 +16,7 @@ The topic of the next session:
 ## Topic
 
 - **Title**: Quantum cryptanalysis of isogeny-based cryptography
-- **Presenter**: Péter Kutas
+- **Presenter**: [Péter Kutas](https://sites.google.com/view/peterkutas89/)
 - **Language**: TBD
 
 ## Coordinates
