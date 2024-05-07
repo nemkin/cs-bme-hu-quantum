@@ -14,12 +14,13 @@ Coordinator: [Viktória Nemkin](https://cs.bme.hu/~nemkin)
 
 ## Upcoming sessions
 
-- 2024-04-11: [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation]({{ site.baseurl }}/posts/2024-04-11-multivariate-mean-estimation)
+- 2024-05-16: [Quantum cryptanalysis of isogeny-based cryptography]({{ site.baseurl }}/posts/2024-05-16-quantum-cryptanalysis-of-isogeny-based-cryptography)
 
 ## Past sessions
 
 ### Spring 2024
 
+- 2024-04-11: [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation]({{ site.baseurl }}/posts/2024-04-11-multivariate-mean-estimation)
 - 2024-03-21: [Unitary Complexity and the Uhlmann Transformation Problem]({{ site.baseurl }}/posts/2024-03-21-qip-2024)
 
 ### Fall 2023
